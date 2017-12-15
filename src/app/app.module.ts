@@ -10,6 +10,7 @@ import { PlayerPage } from '../pages/player/player';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { Media } from '@ionic-native/media';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   providers: [
     StatusBar,
     SplashScreen,
+    Media,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
