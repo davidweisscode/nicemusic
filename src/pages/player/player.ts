@@ -10,22 +10,18 @@ export class PlayerPage {
 
   constructor(public navCtrl: NavController, private media: Media) {
 
-    const myMedia: MediaObject = this.media.create('file.mp3');
-
   }
 
-
+  myMedia: MediaObject = this.media.create('https://www.android-examples.com/wp-content/uploads/2016/04/Thunder-rumble.mp3');
 
   playMedia() {
-    //myMedia.play();
     console.log("play");
+    this.myMedia.play();
+    console.log(this.myMedia);
   };
 
   pauseMedia() {
-    //myMedia.pause();
     console.log("pause");
   };
-
-
 
 }
