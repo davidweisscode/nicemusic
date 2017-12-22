@@ -32,6 +32,8 @@ export class PlayerPage {
     //this.currentAudio.stop();
   }
 
+  //TODO outsource functions in ArchiveService.ts
+
   /**
    *  Write file structure in JSON file
    *  @param fromPath  Path to scan
