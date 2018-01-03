@@ -12,23 +12,29 @@ export class PlayerPage {
     public navCtrl: NavController,
     private media: Media,
     private file: File,
-  ) {}
+    ) {}
 
   // Currently playing audio file
   //TODO setCurrentAudio()
   currentAudio: MediaObject = this.media.create(
     this.file.externalRootDirectory + "Music/America/nicesong.m4a",
-  );
+    );
   // Current JSON object used for archive
   currentArchive: any = { root: [] };
 
+  setMedia() {
+    console.log("[set media]");
+    //TODO
+    // use AudioService ?!
+  }
+
   playMedia() {
-    console.log("[play]");
+    console.log("[play media]");
     //this.currentAudio.play();
   }
 
   stopMedia() {
-    console.log("[stop]");
+    console.log("[stop media]");
     //this.currentAudio.stop();
   }
 
@@ -38,11 +44,11 @@ export class PlayerPage {
    *  Write file structure in JSON file
    *  @param fromPath  Path to scan
    */
-  buildJSONArchive(fromPath) {
-    this.addJSONEntries(fromPath, this.currentArchive["root"]).then(() => {
-      this.writeArchiveFile(JSON.stringify(this.currentArchive));
-    });
-  }
+   buildJSONArchive(fromPath) {
+     this.addJSONEntries(fromPath, this.currentArchive["root"]).then(() => {
+       this.writeArchiveFile(JSON.stringify(this.currentArchive));
+     });
+   }
 
   /**
    *  Recursively list file structure at "deviceRoot/fromPath" in array "targetArr"
@@ -50,52 +56,55 @@ export class PlayerPage {
    *  @param targetArr  Array to push to
    *  @returns          Promise
    */
-  addJSONEntries(fromPath, targetArr) {
-    return new Promise((resolve, reject) => {
-      this.file
-        .listDir(this.file.externalRootDirectory, fromPath)
-        .then((dirList) => {
-          let recursionCounter = 0;
-          dirList.forEach((item) => {
-            if (item.isDirectory) {
-              ++recursionCounter;
-              let newTargetArr = [];
-              this.addJSONEntries(
-                item.fullPath.substring(1),
-                newTargetArr,
-              ).then(() => {
-                targetArr.push({
-                  name: item.name,
-                  content: newTargetArr,
+   addJSONEntries(fromPath, targetArr) {
+     return new Promise((resolve, reject) => {
+       this.file
+       .listDir(this.file.externalRootDirectory, fromPath)
+       .then((dirList) => {
+         let recursionCounter = 0;
+         dirList.forEach((item) => {
+           if (item.isDirectory) {
+             ++recursionCounter;
+             let newTargetArr = [];
+             this.addJSONEntries(
+               item.fullPath.substring(1),
+               newTargetArr,
+               ).then(() => {
+                 targetArr.push({
+                   name: item.name,
+                   content: newTargetArr,
+                  //directory meta data
                 });
-                --recursionCounter;
-                if (recursionCounter == 0) {
+                 --recursionCounter;
+                 if (recursionCounter == 0) {
                   resolve(); // Resolve recursive promise
                 }
               });
-            } else {
-              targetArr.push({
-                name: item.name,
+             } else {
+               targetArr.push({
+                 name: item.name,
+                //file meta data
               });
-            }
-          });
-          if (recursionCounter == 0) {
+             }
+           });
+         if (recursionCounter == 0) {
             resolve(); // Resolve initial promise
           }
         });
-    });
-  }
+     });
+   }
 
   /**
-   *  Write or overwrite currentArchive.json file
+   *  Overwrite currentArchive.json file
    *  @param content   (Stringified) JSON file structure
    */
+  //TODO execute on buttonclick
   writeArchiveFile(content: string) {
     this.file.createFile(this.file.dataDirectory, "currentArchive", true);
     this.file.writeExistingFile(
       this.file.dataDirectory,
       "currentArchive",
       content,
-    );
+      );
   }
 }

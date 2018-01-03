@@ -9,7 +9,7 @@
 <ion-content>
   <ion-list>
 
-    <button ion-item *ngFor="let item of currentArchiveJSON['root']" (click)="itemSelected(item)">
+    <button ion-item *ngFor="let item of currentArchiveArr" (click)="itemSelected(item)">
       {{item.name}}
     </button>
 
