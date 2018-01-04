@@ -6,8 +6,7 @@ import { AudioService } from "../../services/audio.service";
 
 @Component({
   selector: "page-archive",
-  templateUrl: "archive.html",
-  providers: [AudioService],
+  templateUrl: "archive.html"
 })
 export class ArchivePage {
   constructor(

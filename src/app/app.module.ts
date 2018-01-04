@@ -12,6 +12,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { File } from '@ionic-native/file';
 import { Media } from '@ionic-native/media';
+import { AudioService } from "../services/audio.service";
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { Media } from '@ionic-native/media';
   providers: [
     StatusBar,
     SplashScreen,
+    AudioService,
     File,
     Media,
     {provide: ErrorHandler, useClass: IonicErrorHandler}

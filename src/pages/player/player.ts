@@ -7,7 +7,6 @@ import { AudioService } from "../../services/audio.service"
 @Component({
   selector: "page-player",
   templateUrl: "player.html",
-  providers: [AudioService],
 })
 export class PlayerPage {
   constructor(
