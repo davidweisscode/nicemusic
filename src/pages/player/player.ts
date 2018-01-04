@@ -2,40 +2,34 @@ import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
 import { File } from "@ionic-native/file";
 import { Media, MediaObject } from "@ionic-native/media";
+import { AudioService } from "../../services/audio.service"
 
 @Component({
   selector: "page-player",
   templateUrl: "player.html",
+  providers: [AudioService],
 })
 export class PlayerPage {
   constructor(
     public navCtrl: NavController,
     private media: Media,
     private file: File,
+    private audioService: AudioService,
     ) {}
 
-  // Currently playing audio file
-  //TODO setCurrentAudio()
-  currentAudio: MediaObject = this.media.create(
-    this.file.externalRootDirectory + "Music/America/nicesong.m4a",
-    );
   // Current JSON object used for archive
   currentArchive: any = { root: [] };
 
-  setMedia() {
-    console.log("[set media]");
-    //TODO
-    // use AudioService ?!
+  playAudio() {
+    this.audioService.playAudio();
   }
 
-  playMedia() {
-    console.log("[play media]");
-    //this.currentAudio.play();
+  pauseAudio() {
+    this.audioService.pauseAudio();
   }
 
-  stopMedia() {
-    console.log("[stop media]");
-    //this.currentAudio.stop();
+  stopAudio() {
+    this.audioService.stopAudio();
   }
 
   //TODO outsource functions in ArchiveService.ts
@@ -83,7 +77,7 @@ export class PlayerPage {
              } else {
                targetArr.push({
                  name: item.name,
-                //file meta data
+                //file meta data: TODO path to file
               });
              }
            });

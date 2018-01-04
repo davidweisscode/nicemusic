@@ -2,16 +2,19 @@ import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
 import { NavParams } from "ionic-angular";
 import { File } from "@ionic-native/file";
+import { AudioService } from "../../services/audio.service";
 
 @Component({
   selector: "page-archive",
   templateUrl: "archive.html",
+  providers: [AudioService],
 })
 export class ArchivePage {
   constructor(
     public navCtrl: NavController,
     private file: File,
     private navParams: NavParams,
+    private audioService: AudioService,
     ) {
     console.log("CONSTRUCTOR");
     console.log(navParams.get("name"));
@@ -43,8 +46,8 @@ export class ArchivePage {
       console.log("OPEN PAGE --> item selected has content property");
       this.navCtrl.push(ArchivePage, item);
     } else {
-      console.log("PLAY AUDIO");
-      //TODO
+      //TODO: update playerPage
+      this.audioService.setAudio(item);
     }
   }
 }
