@@ -13,6 +13,7 @@ export class AudioService {
   // Angular style?!
 
   setAudio(item) {
+    // here release() !
     this.audio = this.media.create(
       this.file.externalRootDirectory + "Music/America/01 - A Horse With No Name.m4a",//item.fullPath ?
       );
