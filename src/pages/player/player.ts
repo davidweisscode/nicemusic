@@ -1,6 +1,6 @@
 import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
-import { AudioService } from "../../services/audio.service"
+import { AudioService } from "../../services/audio.service";
 
 @Component({
   selector: "page-player",
