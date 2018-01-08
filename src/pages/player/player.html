@@ -5,12 +5,13 @@
 </ion-header>
 
 <ion-content padding>
+
   <h2>Welcome to the player!</h2>
 
-  <button ion-button (click)="playMedia()" color="secondary">Play</button>
+  <button ion-button (click)="playAudio()" color="secondary">Play</button>
 
-  <button ion-button (click)="stopMedia()" color="danger">Stop</button>
+  <button ion-button (click)="pauseAudio()" color="secondary">Pause</button>
 
-  <button ion-button (click)="buildJSONArchive('Music')" color="primary">writeArchive</button>
+  <button ion-button (click)="stopAudio()" color="secondary">Stop</button>
 
 </ion-content>

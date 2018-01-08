@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
+import { ArchiveService } from "../../services/archive.service";
 
 @Component({
   selector: 'page-home',
@@ -7,12 +8,12 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  constructor(public navCtrl: NavController, private archiveService: ArchiveService) {
 
   }
 
-  ngOnInit() {
-    console.log("Hello");
+  updateArchive(pathToRoot) {
+    this.archiveService.updateArchive(pathToRoot);
   }
 
 }
