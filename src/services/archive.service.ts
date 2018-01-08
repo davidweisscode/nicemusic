@@ -54,8 +54,8 @@ export class ArchiveService {
              } else {
                targetArr.push({
                  name: item.name,
-                //file meta data: TODO path to file
-              });
+                 fullPath: item.fullPath.substring(1)
+               });
              }
            });
          if (recursionCounter == 0) {
