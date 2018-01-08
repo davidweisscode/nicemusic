@@ -15,22 +15,16 @@ export class ArchivePage {
     private navParams: NavParams,
     private audioService: AudioService,
     ) {
-    console.log("CONSTRUCTOR");
-    console.log(navParams.get("name"));
-    console.log(navParams.get("content"));
     let pageName = navParams.get("name"); //string?
     let pageContent = navParams.get("content"); //array
 
-    if (pageName) {
-      console.log("OPEN SUB-PAGE");
+    if (pageName) { // Consecutive partial JSON lookup
       this.currentArchiveArr = pageContent;
-    } else {
-      console.log("OPEN ROOT-PAGE");
+    } else { // First JSON lookup
       this.file
       .readAsText(this.file.dataDirectory, "currentArchive")
       .then((string) => {
         this.currentArchiveJSON = JSON.parse(string);
-        console.log("[READ ARCHIVE]", this.currentArchiveJSON);
         this.currentArchiveArr = this.currentArchiveJSON["root"];
       });
     }
@@ -42,11 +36,11 @@ export class ArchivePage {
   itemSelected(item) {
     console.log("SELECT ITEM", item);
     if(item.content) {
-      console.log("OPEN PAGE --> item selected has content property");
       this.navCtrl.push(ArchivePage, item);
     } else {
       //TODO: update playerPage
       this.audioService.setAudio(item);
+      this.audioService.playAudio();
     }
   }
 }
