@@ -8,21 +8,17 @@ export class AudioService {
   constructor(private file: File, private media: Media) {}
 
   audio: MediaObject;
-  // different scope in "setAudio" and "playAudio" ?!
-  // idea: provide class variable in constructor --> does not work ... "no provider"
-  // Angular style?!
 
   setAudio(item) {
-    // here release() !
+    if(this.audio) {
+      this.audio.release();
+    }
     this.audio = this.media.create(
-      this.file.externalRootDirectory + "Music/America/01 - A Horse With No Name.m4a",//item.fullPath ?
+      this.file.externalRootDirectory + item.fullPath
       );
-    //Ionic native doc: release() after finish?
-    console.log("LOG audio (at SET): ", this.audio); //MediaObject instance
   }
 
   playAudio() {
-    console.log("LOG audio (at PLAY): ", this.audio); //undefined
     this.audio.play();
   }
 
