@@ -19,8 +19,10 @@ export class ArchivePage {
     let pageContent = navParams.get("content"); //array
 
     if (pageName) { // Consecutive partial JSON lookup
+      this.archiveTitle = pageName;
       this.currentArchiveArr = pageContent;
     } else { // First JSON lookup
+      this.archiveTitle = "/";
       this.file
       .readAsText(this.file.dataDirectory, "currentArchive")
       .then((string) => {
@@ -32,6 +34,7 @@ export class ArchivePage {
 
   currentArchiveJSON: any = {};
   currentArchiveArr: any = [];
+  archiveTitle: string;
 
   itemSelected(item) {
     console.log("SELECT ITEM", item);
