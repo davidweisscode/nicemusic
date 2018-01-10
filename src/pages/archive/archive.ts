@@ -15,11 +15,11 @@ export class ArchivePage {
     private navParams: NavParams,
     private audioService: AudioService,
     ) {
-    let pageName = navParams.get("name"); //string?
-    let pageContent = navParams.get("content"); //array
+    let pagePath = navParams.get("fullPath");
+    let pageContent = navParams.get("content"); // Array
 
-    if (pageName) { // Consecutive partial JSON lookup
-      this.archiveTitle = pageName;
+    if (pagePath) { // Consecutive partial JSON lookup
+      this.archiveTitle = pagePath.substring(5); // Remove "Music"
       this.currentArchiveArr = pageContent;
     } else { // First JSON lookup
       this.archiveTitle = "/";
