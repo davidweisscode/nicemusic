@@ -43,6 +43,7 @@ export class ArchiveService {
                ).then(() => {
                  targetArr.push({
                    name: item.name,
+                   fullPath: item.fullPath.substring(1),
                    content: newTargetArr,
                   //directory meta data
                 });
