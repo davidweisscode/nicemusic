@@ -7,6 +7,7 @@
 </ion-header>
 
 <ion-content>
+  <button ion-button (click)="getTags()" color="secondary">test getTags()</button>
   <ion-list>
 
     <button ion-item *ngFor="let item of currentArchiveArr" (click)="itemSelected(item)">

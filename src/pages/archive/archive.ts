@@ -3,6 +3,7 @@ import { NavController } from "ionic-angular";
 import { NavParams } from "ionic-angular";
 import { File } from "@ionic-native/file";
 import { AudioService } from "../../services/audio.service";
+import { jsMediaTags } from "jsmediatags";
 
 @Component({
   selector: "page-archive",
@@ -46,4 +47,17 @@ export class ArchivePage {
       this.audioService.playAudio();
     }
   }
+
+  getTags() {
+    console.log("getTags()");
+    jsMediaTags.read(this.file.dataDirectory + "Music/America/04 - Ventura Highway.m4a", {
+      onSuccess: function(tag) {
+        console.log(tag);
+      },
+      onError: function(err) {
+        console.log(err, err.type, err.info);
+      }
+    })
+  }
+
 }
