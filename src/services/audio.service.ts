@@ -22,29 +22,18 @@ export class AudioService {
     // Register events
     // NONE = 0; STARTING = 1; RUNNING = 2; PAUSED = 3; STOPPED = 4;
     this.audio.onStatusUpdate.subscribe(status => { //Many status changes in stupid order and repeated ?!
-      /*switch(status) {
-        case (0): {
-          console.log("Media status:", "NONE");
-        }
-        case (1): {
-          console.log("Media status:", "STARTING");
-        }
-        case (2): {
-          console.log("Media status:", "RUNNING");
-        }
-        case (3): {
-          console.log("Media status:", "PAUSED");
-        }
-        case (4): {
-          console.log("Media status:", "STOPPED");
-        }
-      }*/
+      console.log("Status geändert", status);
     });
     this.audio.onError.subscribe(error =>
       console.log('Error: Cannot play audio.', error));
-    this.audio.onSuccess.subscribe(() => { // !!! Triggers also on "stop" or other audio
-      console.log('Audio finished!');
-      this.nextAudio();
+    this.audio.onSuccess.subscribe((successType) => { // Triggers on finish and cancel
+      if(successType === 6) { // See at plugin Media.js
+        console.log('Audio finished!');
+        this.nextAudio();
+      } else {
+        console.log('Audio stopped!');
+      }
+
     });
   }
 
