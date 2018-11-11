@@ -1,0 +1,3511 @@
+// adb shell
+// su
+// root@cancro:/data/data/io.ionic.starter/files
+
+{
+  "root": [
+    {
+      "name": "artworks",
+      "content": [
+        {
+          "name": "albumBeats_Beer_BBQ1624399096.png",
+          "fullPath": "Music/artworks/albumBeats_Beer_BBQ1624399096.png"
+        },
+        {
+          "name": "albumConsequences312033874.png",
+          "fullPath": "Music/artworks/albumConsequences312033874.png"
+        },
+        {
+          "name": "albumMote_Con_Huesillos217149632.png",
+          "fullPath": "Music/artworks/albumMote_Con_Huesillos217149632.png"
+        },
+        {
+          "name": "albumZimmer_26-1785423262.png",
+          "fullPath": "Music/artworks/albumZimmer_26-1785423262.png"
+        }
+      ]
+    },
+    {
+      "name": "Short",
+      "content": [
+        {
+          "name": "s_pic.jpg",
+          "fullPath": "Music/Short/s_pic.jpg"
+        },
+        {
+          "name": "Female",
+          "content": [
+            {
+              "name": "Voice-Coding_Power-F-01.mp3",
+              "fullPath": "Music/Short/Female/Voice-Coding_Power-F-01.mp3"
+            },
+            {
+              "name": "Voice-Coding_Rainbow-F-01.mp3",
+              "fullPath": "Music/Short/Female/Voice-Coding_Rainbow-F-01.mp3"
+            },
+            {
+              "name": "Voice-Dan_Shiffman-F-01.mp3",
+              "fullPath": "Music/Short/Female/Voice-Dan_Shiffman-F-01.mp3"
+            },
+            {
+              "name": "Voice-Hello-F-01.mp3",
+              "fullPath": "Music/Short/Female/Voice-Hello-F-01.mp3"
+            },
+            {
+              "name": "f_pic.jpg",
+              "fullPath": "Music/Short/Female/f_pic.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Male",
+          "content": [
+            {
+              "name": "m_pic.jpg",
+              "fullPath": "Music/Short/Male/m_pic.jpg"
+            },
+            {
+              "name": "Voice-Coding_Power-01.mp3",
+              "fullPath": "Music/Short/Male/Voice-Coding_Power-01.mp3"
+            },
+            {
+              "name": "Voice-Coding_Rainbow-01.mp3",
+              "fullPath": "Music/Short/Male/Voice-Coding_Rainbow-01.mp3"
+            },
+            {
+              "name": "Voice-Dan_Shiffman-01.mp3",
+              "fullPath": "Music/Short/Male/Voice-Dan_Shiffman-01.mp3"
+            },
+            {
+              "name": "Voice-Hello-01.mp3",
+              "fullPath": "Music/Short/Male/Voice-Hello-01.mp3"
+            },
+            {
+              "name": "Voice-Hello-02.mp3",
+              "fullPath": "Music/Short/Male/Voice-Hello-02.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Negroman",
+      "content": [
+        {
+          "name": "negroman-1.jpg",
+          "fullPath": "Music/Negroman/negroman-1.jpg"
+        },
+        {
+          "name": "Sequel EP",
+          "content": [
+            {
+              "name": "01. Nejromunn.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/01. Nejromunn.mp3"
+            },
+            {
+              "name": "02. Flaschenöffner.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/02. Flaschenöffner.mp3"
+            },
+            {
+              "name": "03. Vibe oder Werbung.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/03. Vibe oder Werbung.mp3"
+            },
+            {
+              "name": "04. Block.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/04. Block.mp3"
+            },
+            {
+              "name": "05. Batterie.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/05. Batterie.mp3"
+            },
+            {
+              "name": "06. Nichtssagend.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/06. Nichtssagend.mp3"
+            },
+            {
+              "name": "07. Pool's closed.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/07. Pool's closed.mp3"
+            },
+            {
+              "name": "08. Schlüsselloch.mp3",
+              "fullPath": "Music/Negroman/Sequel EP/08. Schlüsselloch.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Negroman/Sequel EP/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Digitalluc",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Digitalluc/pic.jpg"
+        },
+        {
+          "name": "Vinyl Session mit BeatPete und Wun Two",
+          "content": [
+            {
+              "name": "BeatPete, Wun Two & digitalluc - Vinyl Session - Part # 69 - Beatmaker Special.mp3",
+              "fullPath": "Music/Digitalluc/Vinyl Session mit BeatPete und Wun Two/BeatPete, Wun Two & digitalluc - Vinyl Session - Part # 69 - Beatmaker Special.mp3"
+            },
+            {
+              "name": "cover.png",
+              "fullPath": "Music/Digitalluc/Vinyl Session mit BeatPete und Wun Two/cover.png"
+            }
+          ]
+        },
+        {
+          "name": "Hansi's Room",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Digitalluc/Hansi's Room/cover.jpg"
+            },
+            {
+              "name": "Hansi's Room _ digitalluc.mp3",
+              "fullPath": "Music/Digitalluc/Hansi's Room/Hansi's Room _ digitalluc.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brous One",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Brous One/pic.jpg"
+        },
+        {
+          "name": "Consequences",
+          "content": [
+            {
+              "name": "01. No Coincidence feat Niko Soprano.mp3",
+              "fullPath": "Music/Brous One/Consequences/01. No Coincidence feat Niko Soprano.mp3"
+            },
+            {
+              "name": "02. The Source.mp3",
+              "fullPath": "Music/Brous One/Consequences/02. The Source.mp3"
+            },
+            {
+              "name": "03. Somethin.mp3",
+              "fullPath": "Music/Brous One/Consequences/03. Somethin.mp3"
+            },
+            {
+              "name": "04. Everyday All Day.mp3",
+              "fullPath": "Music/Brous One/Consequences/04. Everyday All Day.mp3"
+            },
+            {
+              "name": "05. Keept it live.mp3",
+              "fullPath": "Music/Brous One/Consequences/05. Keept it live.mp3"
+            },
+            {
+              "name": "06. A Mental Trip.mp3",
+              "fullPath": "Music/Brous One/Consequences/06. A Mental Trip.mp3"
+            },
+            {
+              "name": "07. Y'all know this.mp3",
+              "fullPath": "Music/Brous One/Consequences/07. Y'all know this.mp3"
+            },
+            {
+              "name": "08. Shit is on.mp3",
+              "fullPath": "Music/Brous One/Consequences/08. Shit is on.mp3"
+            },
+            {
+              "name": "09. Ground up.mp3",
+              "fullPath": "Music/Brous One/Consequences/09. Ground up.mp3"
+            },
+            {
+              "name": "10. Like Expected.mp3",
+              "fullPath": "Music/Brous One/Consequences/10. Like Expected.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Brous One/Consequences/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hansi's Room",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Brous One/Hansi's Room/cover.jpg"
+            },
+            {
+              "name": "Hansi's Room _ Brous One.mp3",
+              "fullPath": "Music/Brous One/Hansi's Room/Hansi's Room _ Brous One.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Sin Nombre",
+          "content": [
+            {
+              "name": "Brous One - Sin Nombre (Radio Juicy Vol. 28).mp3",
+              "fullPath": "Music/Brous One/Sin Nombre/Brous One - Sin Nombre (Radio Juicy Vol. 28).mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Brous One/Sin Nombre/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Mote Con Huesillos",
+          "content": [
+            {
+              "name": "01. Primero Sorbo.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/01. Primero Sorbo.mp3"
+            },
+            {
+              "name": "02. El Primero.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/02. El Primero.mp3"
+            },
+            {
+              "name": "03. L'arte del rumori.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/03. L'arte del rumori.mp3"
+            },
+            {
+              "name": "04. On the run.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/04. On the run.mp3"
+            },
+            {
+              "name": "05. Mote Con Huesillos.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/05. Mote Con Huesillos.mp3"
+            },
+            {
+              "name": "06. Fuckalldatshit.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/06. Fuckalldatshit.mp3"
+            },
+            {
+              "name": "07. Almuerzo.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/07. Almuerzo.mp3"
+            },
+            {
+              "name": "08. Maldito Microfono.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/08. Maldito Microfono.mp3"
+            },
+            {
+              "name": "09. Benzin für zwei.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/09. Benzin für zwei.mp3"
+            },
+            {
+              "name": "10. Track 16.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/10. Track 16.mp3"
+            },
+            {
+              "name": "11. Desconectate.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/11. Desconectate.mp3"
+            },
+            {
+              "name": "12. On & Weón.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/12. On & Weón.mp3"
+            },
+            {
+              "name": "13. Último Sorbo.mp3",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/13. Último Sorbo.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Brous One/Mote Con Huesillos/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Beats, Beer & BBQ",
+          "content": [
+            {
+              "name": "01. Intro feat Niko Soprano.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/01. Intro feat Niko Soprano.mp3"
+            },
+            {
+              "name": "02. Windmühle feat Dennis Da Menace.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/02. Windmühle feat Dennis Da Menace.mp3"
+            },
+            {
+              "name": "03. Cervezas y Asados.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/03. Cervezas y Asados.mp3"
+            },
+            {
+              "name": "04. Show & Prove.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/04. Show & Prove.mp3"
+            },
+            {
+              "name": "05. Schwesterliebe.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/05. Schwesterliebe.mp3"
+            },
+            {
+              "name": "06. Uno Más Uno feat Twit One.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/06. Uno Más Uno feat Twit One.mp3"
+            },
+            {
+              "name": "07. Aférrate.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/07. Aférrate.mp3"
+            },
+            {
+              "name": "08. Like Me.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/08. Like Me.mp3"
+            },
+            {
+              "name": "09. Schwere Liebe feat Fleur Earth.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/09. Schwere Liebe feat Fleur Earth.mp3"
+            },
+            {
+              "name": "10. Colgados de Suspiros.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/10. Colgados de Suspiros.mp3"
+            },
+            {
+              "name": "11. Correct Technique.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/11. Correct Technique.mp3"
+            },
+            {
+              "name": "12. Kopfrolle feat Retrogott.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/12. Kopfrolle feat Retrogott.mp3"
+            },
+            {
+              "name": "13. Falsos MCs.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/13. Falsos MCs.mp3"
+            },
+            {
+              "name": "14. Beats, Beet & BBQ.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/14. Beats, Beet & BBQ.mp3"
+            },
+            {
+              "name": "15. Was wollt ihr tun_ feat Eloquent and Delicious Chrischuzz.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/15. Was wollt ihr tun_ feat Eloquent and Delicious Chrischuzz.mp3"
+            },
+            {
+              "name": "16. Jazz Könige feat Der Ralle.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/16. Jazz Könige feat Der Ralle.mp3"
+            },
+            {
+              "name": "17. Páginas.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/17. Páginas.mp3"
+            },
+            {
+              "name": "18. Übertitel feat Sylabil Spill.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/18. Übertitel feat Sylabil Spill.mp3"
+            },
+            {
+              "name": "19. Lifestyle of Gleis 2 feat MC Rene.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/19. Lifestyle of Gleis 2 feat MC Rene.mp3"
+            },
+            {
+              "name": "20. Der Fleisch-König.mp3",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/20. Der Fleisch-König.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Brous One/Beats, Beer & BBQ/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Never Outdated",
+          "content": [
+            {
+              "name": "01. The Next Single.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/01. The Next Single.mp3"
+            },
+            {
+              "name": "02. Moment in time.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/02. Moment in time.mp3"
+            },
+            {
+              "name": "03. Lit up.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/03. Lit up.mp3"
+            },
+            {
+              "name": "04. Never judge.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/04. Never judge.mp3"
+            },
+            {
+              "name": "05. Rawissue.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/05. Rawissue.mp3"
+            },
+            {
+              "name": "06. Trece A.M..mp3",
+              "fullPath": "Music/Brous One/Never Outdated/06. Trece A.M..mp3"
+            },
+            {
+              "name": "07. Down for the Kaz.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/07. Down for the Kaz.mp3"
+            },
+            {
+              "name": "08. Down for the Real.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/08. Down for the Real.mp3"
+            },
+            {
+              "name": "09. Hacer algo.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/09. Hacer algo.mp3"
+            },
+            {
+              "name": "10. Rock a Boat.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/10. Rock a Boat.mp3"
+            },
+            {
+              "name": "11. Zufall oder Fügung feat Fleur Earth.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/11. Zufall oder Fügung feat Fleur Earth.mp3"
+            },
+            {
+              "name": "12. Ginger Revenge.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/12. Ginger Revenge.mp3"
+            },
+            {
+              "name": "13. Oro Negro feat Dennis Da Menace.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/13. Oro Negro feat Dennis Da Menace.mp3"
+            },
+            {
+              "name": "14. Crazy.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/14. Crazy.mp3"
+            },
+            {
+              "name": "15. Hit me with that.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/15. Hit me with that.mp3"
+            },
+            {
+              "name": "16. Wench Rench.mp3",
+              "fullPath": "Music/Brous One/Never Outdated/16. Wench Rench.mp3"
+            },
+            {
+              "name": "cover.png",
+              "fullPath": "Music/Brous One/Never Outdated/cover.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blank Banshee",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Blank Banshee/pic.jpg"
+        },
+        {
+          "name": "MEGA",
+          "content": [
+            {
+              "name": "01. MEGA.mp3",
+              "fullPath": "Music/Blank Banshee/MEGA/01. MEGA.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Blank Banshee/MEGA/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Blank Banshee 1",
+          "content": [
+            {
+              "name": "01. Blank Banshee 1.mp3",
+              "fullPath": "Music/Blank Banshee/Blank Banshee 1/01. Blank Banshee 1.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Blank Banshee/Blank Banshee 1/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Blank Banshee 0",
+          "content": [
+            {
+              "name": "01. Blank Banshee 0.mp3",
+              "fullPath": "Music/Blank Banshee/Blank Banshee 0/01. Blank Banshee 0.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Blank Banshee/Blank Banshee 0/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charles Mingus",
+      "content": [
+        {
+          "name": "Mingus.jpg",
+          "fullPath": "Music/Charles Mingus/Mingus.jpg"
+        },
+        {
+          "name": "Mingus Ah Um",
+          "content": [
+            {
+              "name": "01. Mingus Ah Um.mp3",
+              "fullPath": "Music/Charles Mingus/Mingus Ah Um/01. Mingus Ah Um.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Charles Mingus/Mingus Ah Um/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Der Ralle",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Der Ralle/pic.jpg"
+        },
+        {
+          "name": "Sácate los Zapatos y siéntate pa' mear",
+          "content": [
+            {
+              "name": "01. La Introducción... (Die Einleitung...).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/01. La Introducción... (Die Einleitung...).mp3"
+            },
+            {
+              "name": "02. Qué Dice Ahi (Was Steht Da_).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/02. Qué Dice Ahi (Was Steht Da_).mp3"
+            },
+            {
+              "name": "03. Voy Y Vuelvo (Gleich Zurück).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/03. Voy Y Vuelvo (Gleich Zurück).mp3"
+            },
+            {
+              "name": "04. Correspondencia (Briefwechsel).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/04. Correspondencia (Briefwechsel).mp3"
+            },
+            {
+              "name": "05. La Canción Del Ilegal (Lied Der Illegalen).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/05. La Canción Del Ilegal (Lied Der Illegalen).mp3"
+            },
+            {
+              "name": "06. Cigarro Sin Filtro (Zigaretten Ohne Filter).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/06. Cigarro Sin Filtro (Zigaretten Ohne Filter).mp3"
+            },
+            {
+              "name": "07. Empanadas Y Chucrut (Empanadas & Sauerkraut).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/07. Empanadas Y Chucrut (Empanadas & Sauerkraut).mp3"
+            },
+            {
+              "name": "08. Los Compadres De Tu Madre (Die Freunde Deiner Mama).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/08. Los Compadres De Tu Madre (Die Freunde Deiner Mama).mp3"
+            },
+            {
+              "name": "09. El Interludio... (Interlude).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/09. El Interludio... (Interlude).mp3"
+            },
+            {
+              "name": "10. Perro Jenrry (Jenrry Der Hund) & Skit.mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/10. Perro Jenrry (Jenrry Der Hund) & Skit.mp3"
+            },
+            {
+              "name": "11. Aleluya (Hallelujah).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/11. Aleluya (Hallelujah).mp3"
+            },
+            {
+              "name": "12. Cachipún (Stein, Schere, Papier).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/12. Cachipún (Stein, Schere, Papier).mp3"
+            },
+            {
+              "name": "13. El Outro... (Die Ausleitung).mp3",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/13. El Outro... (Die Ausleitung).mp3"
+            },
+            {
+              "name": "cover.PNG",
+              "fullPath": "Music/Der Ralle/Sácate los Zapatos y siéntate pa' mear/cover.PNG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dennis Da Menace",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Dennis Da Menace/pic.jpg"
+        },
+        {
+          "name": "Quintessenz",
+          "content": [
+            {
+              "name": "01. Disskurs.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/01. Disskurs.mp3"
+            },
+            {
+              "name": "02. Zerrspiegel.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/02. Zerrspiegel.mp3"
+            },
+            {
+              "name": "03. Styx.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/03. Styx.mp3"
+            },
+            {
+              "name": "04. Harzige Grüße.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/04. Harzige Grüße.mp3"
+            },
+            {
+              "name": "05. Quintessenz.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/05. Quintessenz.mp3"
+            },
+            {
+              "name": "06. Paradoxe Idylle.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/06. Paradoxe Idylle.mp3"
+            },
+            {
+              "name": "07. Der Dritte Mann.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/07. Der Dritte Mann.mp3"
+            },
+            {
+              "name": "08. Oro Negro.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/08. Oro Negro.mp3"
+            },
+            {
+              "name": "09. Valium.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/09. Valium.mp3"
+            },
+            {
+              "name": "10. Ohne sie bin ich nichts.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/10. Ohne sie bin ich nichts.mp3"
+            },
+            {
+              "name": "11. Offenes Hemd.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/11. Offenes Hemd.mp3"
+            },
+            {
+              "name": "12. Heilbronn-Köln-Kombinat.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/12. Heilbronn-Köln-Kombinat.mp3"
+            },
+            {
+              "name": "13. Labyrinth.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/13. Labyrinth.mp3"
+            },
+            {
+              "name": "14. Wortsport Mörderbienen in 'nem Schwarm.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/14. Wortsport Mörderbienen in 'nem Schwarm.mp3"
+            },
+            {
+              "name": "15. 40 Takte Therapie.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/15. 40 Takte Therapie.mp3"
+            },
+            {
+              "name": "16. Nicht witzig.mp3",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/16. Nicht witzig.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Dennis Da Menace/Quintessenz/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classic der Dicke",
+      "content": [
+        {
+          "name": "img-1723.jpg",
+          "fullPath": "Music/Classic der Dicke/img-1723.jpg"
+        },
+        {
+          "name": "Grüne Eminenz",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/01. Intro.mp3"
+            },
+            {
+              "name": "02. Heckenschütze.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/02. Heckenschütze.mp3"
+            },
+            {
+              "name": "03. Mit der Glock bis zum Kopf.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/03. Mit der Glock bis zum Kopf.mp3"
+            },
+            {
+              "name": "04. Kerngeschwindigkeit.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/04. Kerngeschwindigkeit.mp3"
+            },
+            {
+              "name": "05. Crack Pipe.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/05. Crack Pipe.mp3"
+            },
+            {
+              "name": "06. Grüne Eminenz.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/06. Grüne Eminenz.mp3"
+            },
+            {
+              "name": "07. Interstrumental.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/07. Interstrumental.mp3"
+            },
+            {
+              "name": "08. Mittelpunkt.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/08. Mittelpunkt.mp3"
+            },
+            {
+              "name": "09. Momentaufnahme.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/09. Momentaufnahme.mp3"
+            },
+            {
+              "name": "10. Mundhygiene.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/10. Mundhygiene.mp3"
+            },
+            {
+              "name": "11. Symmetrie.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/11. Symmetrie.mp3"
+            },
+            {
+              "name": "12. Herb.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/12. Herb.mp3"
+            },
+            {
+              "name": "13. Alle wissen es.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/13. Alle wissen es.mp3"
+            },
+            {
+              "name": "14. High Life.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/14. High Life.mp3"
+            },
+            {
+              "name": "15. Wozu.mp3",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/15. Wozu.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Classic der Dicke/Grüne Eminenz/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dude26",
+      "content": [
+        {
+          "name": "dude26-1200x675.jpg",
+          "fullPath": "Music/Dude26/dude26-1200x675.jpg"
+        },
+        {
+          "name": "Gravitation",
+          "content": [
+            {
+              "name": "01. Gravitation.mp3",
+              "fullPath": "Music/Dude26/Gravitation/01. Gravitation.mp3"
+            },
+            {
+              "name": "02. On Point.mp3",
+              "fullPath": "Music/Dude26/Gravitation/02. On Point.mp3"
+            },
+            {
+              "name": "03. Teil von mir.mp3",
+              "fullPath": "Music/Dude26/Gravitation/03. Teil von mir.mp3"
+            },
+            {
+              "name": "04. Bald November.mp3",
+              "fullPath": "Music/Dude26/Gravitation/04. Bald November.mp3"
+            },
+            {
+              "name": "05. Endlich.mp3",
+              "fullPath": "Music/Dude26/Gravitation/05. Endlich.mp3"
+            },
+            {
+              "name": "06. Fünf Hunde.mp3",
+              "fullPath": "Music/Dude26/Gravitation/06. Fünf Hunde.mp3"
+            },
+            {
+              "name": "07. Nebenbei.mp3",
+              "fullPath": "Music/Dude26/Gravitation/07. Nebenbei.mp3"
+            },
+            {
+              "name": "08. Groschenroman.mp3",
+              "fullPath": "Music/Dude26/Gravitation/08. Groschenroman.mp3"
+            },
+            {
+              "name": "09. Blau.mp3",
+              "fullPath": "Music/Dude26/Gravitation/09. Blau.mp3"
+            },
+            {
+              "name": "10. Silbertablett.mp3",
+              "fullPath": "Music/Dude26/Gravitation/10. Silbertablett.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Dude26/Gravitation/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Zimmer 26",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/01. Intro.mp3"
+            },
+            {
+              "name": "02. Immerhin.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/02. Immerhin.mp3"
+            },
+            {
+              "name": "03. Das große Ganze.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/03. Das große Ganze.mp3"
+            },
+            {
+              "name": "04. Interlude I.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/04. Interlude I.mp3"
+            },
+            {
+              "name": "05. Welt für sich.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/05. Welt für sich.mp3"
+            },
+            {
+              "name": "06. Standby.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/06. Standby.mp3"
+            },
+            {
+              "name": "07. Kinderaugen.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/07. Kinderaugen.mp3"
+            },
+            {
+              "name": "08. Schlecht gemischt.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/08. Schlecht gemischt.mp3"
+            },
+            {
+              "name": "09. Shadow of love.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/09. Shadow of love.mp3"
+            },
+            {
+              "name": "10. Interlude II.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/10. Interlude II.mp3"
+            },
+            {
+              "name": "11. Wild Street.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/11. Wild Street.mp3"
+            },
+            {
+              "name": "12. Spul zurück.mp3",
+              "fullPath": "Music/Dude26/Zimmer 26/12. Spul zurück.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Dude26/Zimmer 26/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "26 Sonnen",
+          "content": [
+            {
+              "name": "01. Kein Geheimnis.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/01. Kein Geheimnis.mp3"
+            },
+            {
+              "name": "02. brothersontheblock.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/02. brothersontheblock.mp3"
+            },
+            {
+              "name": "03. Nochwas.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/03. Nochwas.mp3"
+            },
+            {
+              "name": "04. Was du machst.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/04. Was du machst.mp3"
+            },
+            {
+              "name": "05. duweisstnichtwasdutust.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/05. duweisstnichtwasdutust.mp3"
+            },
+            {
+              "name": "06. 26 Sonnen.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/06. 26 Sonnen.mp3"
+            },
+            {
+              "name": "07. 4. Stock.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/07. 4. Stock.mp3"
+            },
+            {
+              "name": "08. Parts in Stein.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/08. Parts in Stein.mp3"
+            },
+            {
+              "name": "09. Auf und ab.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/09. Auf und ab.mp3"
+            },
+            {
+              "name": "10. Leicht von der Hand.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/10. Leicht von der Hand.mp3"
+            },
+            {
+              "name": "11. Sonnenuntergang.mp3",
+              "fullPath": "Music/Dude26/26 Sonnen/11. Sonnenuntergang.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Dude26/26 Sonnen/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eloquent",
+      "content": [
+        {
+          "name": "cover.jpg",
+          "fullPath": "Music/Eloquent/cover.jpg"
+        },
+        {
+          "name": "EP2",
+          "content": [
+            {
+              "name": "cover3.jpg",
+              "fullPath": "Music/Eloquent/EP2/cover3.jpg"
+            },
+            {
+              "name": "eloquent & pano_ep2_komplett.wav",
+              "fullPath": "Music/Eloquent/EP2/eloquent & pano_ep2_komplett.wav"
+            }
+          ]
+        },
+        {
+          "name": "Hamsterrad",
+          "content": [
+            {
+              "name": "01. Unter Druck.mp3",
+              "fullPath": "Music/Eloquent/Hamsterrad/01. Unter Druck.mp3"
+            },
+            {
+              "name": "02. Hamsterrad.mp3",
+              "fullPath": "Music/Eloquent/Hamsterrad/02. Hamsterrad.mp3"
+            },
+            {
+              "name": "03. Knapp daneben.mp3",
+              "fullPath": "Music/Eloquent/Hamsterrad/03. Knapp daneben.mp3"
+            },
+            {
+              "name": "04. Stabile Seitenlage.mp3",
+              "fullPath": "Music/Eloquent/Hamsterrad/04. Stabile Seitenlage.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Hamsterrad/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Jazz for dat azz",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Jazz for dat azz/cover.jpg"
+            },
+            {
+              "name": "Eloquent - JAZZ FOR DAT AZZ (Radio Juicy Mix).mp3",
+              "fullPath": "Music/Eloquent/Jazz for dat azz/Eloquent - JAZZ FOR DAT AZZ (Radio Juicy Mix).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Skizzen in blau",
+          "content": [
+            {
+              "name": "01. Er lebt.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/01. Er lebt.wav"
+            },
+            {
+              "name": "02. Noch eins.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/02. Noch eins.wav"
+            },
+            {
+              "name": "03. Rohes Material.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/03. Rohes Material.wav"
+            },
+            {
+              "name": "04. Schlachtbank.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/04. Schlachtbank.wav"
+            },
+            {
+              "name": "05. Ansichten eines Clowns.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/05. Ansichten eines Clowns.wav"
+            },
+            {
+              "name": "06. Sichtweisen.wav",
+              "fullPath": "Music/Eloquent/Skizzen in blau/06. Sichtweisen.wav"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Skizzen in blau/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Gebrochenes Deutsch",
+          "content": [
+            {
+              "name": "01. Ein Monster.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/01. Ein Monster.mp3"
+            },
+            {
+              "name": "02. Für dich nicht.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/02. Für dich nicht.mp3"
+            },
+            {
+              "name": "03. A love story.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/03. A love story.mp3"
+            },
+            {
+              "name": "04. Was tun.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/04. Was tun.mp3"
+            },
+            {
+              "name": "05. Gebrochenes Deutsch.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/05. Gebrochenes Deutsch.mp3"
+            },
+            {
+              "name": "06. Scripted Reality.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/06. Scripted Reality.mp3"
+            },
+            {
+              "name": "07. Dritte Art.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/07. Dritte Art.mp3"
+            },
+            {
+              "name": "08. Katzenfutter.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/08. Katzenfutter.mp3"
+            },
+            {
+              "name": "09. Leichter als fliegen.mp3",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/09. Leichter als fliegen.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Gebrochenes Deutsch/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Soylent Gruen",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/01. Intro.mp3"
+            },
+            {
+              "name": "02. Soylent Gruen.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/02. Soylent Gruen.mp3"
+            },
+            {
+              "name": "03. Aufkrücken.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/03. Aufkrücken.mp3"
+            },
+            {
+              "name": "04. Grillfest.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/04. Grillfest.mp3"
+            },
+            {
+              "name": "05. Kate Winslet ertrinken lassen.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/05. Kate Winslet ertrinken lassen.mp3"
+            },
+            {
+              "name": "06. Sinnlos aber abscheulich.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/06. Sinnlos aber abscheulich.mp3"
+            },
+            {
+              "name": "07. Dies Irae.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/07. Dies Irae.mp3"
+            },
+            {
+              "name": "08. Schaffot.mp3",
+              "fullPath": "Music/Eloquent/Soylent Gruen/08. Schaffot.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Soylent Gruen/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sonstiges",
+          "content": [
+            {
+              "name": "01. Es haut nicht hin.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/01. Es haut nicht hin.mp3"
+            },
+            {
+              "name": "02. Keine Reue.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/02. Keine Reue.mp3"
+            },
+            {
+              "name": "03. Unter Schüben.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/03. Unter Schüben.mp3"
+            },
+            {
+              "name": "04. Grenzen.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/04. Grenzen.mp3"
+            },
+            {
+              "name": "05. Ein Teil.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/05. Ein Teil.mp3"
+            },
+            {
+              "name": "06. Underground.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/06. Underground.mp3"
+            },
+            {
+              "name": "07. Respekt.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/07. Respekt.mp3"
+            },
+            {
+              "name": "08. Fahrstil.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/08. Fahrstil.mp3"
+            },
+            {
+              "name": "09. Woodpecker.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/09. Woodpecker.mp3"
+            },
+            {
+              "name": "10. Den Teufel tragen.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/10. Den Teufel tragen.mp3"
+            },
+            {
+              "name": "11. Zweiter Versuch.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/11. Zweiter Versuch.mp3"
+            },
+            {
+              "name": "12. Nichtraus.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/12. Nichtraus.mp3"
+            },
+            {
+              "name": "13. Ill.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/13. Ill.mp3"
+            },
+            {
+              "name": "14. Spielerfrau.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/14. Spielerfrau.mp3"
+            },
+            {
+              "name": "15. Talentfrei.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/15. Talentfrei.mp3"
+            },
+            {
+              "name": "16. Love Love.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/16. Love Love.mp3"
+            },
+            {
+              "name": "17. Was wenn.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/17. Was wenn.mp3"
+            },
+            {
+              "name": "18. Whut.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/18. Whut.mp3"
+            },
+            {
+              "name": "19. Das große F.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/19. Das große F.mp3"
+            },
+            {
+              "name": "20. Comfort Zone.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/20. Comfort Zone.mp3"
+            },
+            {
+              "name": "21. Frisenmanagement.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/21. Frisenmanagement.mp3"
+            },
+            {
+              "name": "22. Metastasia.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/22. Metastasia.mp3"
+            },
+            {
+              "name": "23. Heiliger Zorn.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/23. Heiliger Zorn.mp3"
+            },
+            {
+              "name": "24. Ausuferzeichen.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/24. Ausuferzeichen.mp3"
+            },
+            {
+              "name": "25. Dinge geschehen.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/25. Dinge geschehen.mp3"
+            },
+            {
+              "name": "26. Rosenkohl.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/26. Rosenkohl.mp3"
+            },
+            {
+              "name": "27. Kaum deutlicher.mp3",
+              "fullPath": "Music/Eloquent/Sonstiges/27. Kaum deutlicher.mp3"
+            },
+            {
+              "name": "cover.png",
+              "fullPath": "Music/Eloquent/Sonstiges/cover.png"
+            }
+          ]
+        },
+        {
+          "name": "Jazz auf gleich",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/cover.jpg"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 01 Intro mit Flowtec.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 01 Intro mit Flowtec.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 02 Was Tun.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 02 Was Tun.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 03 Bam Bam mit Tufu.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 03 Bam Bam mit Tufu.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 04 Fantastisch I.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 04 Fantastisch I.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 05 Kleinod mit Loki.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 05 Kleinod mit Loki.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 06 Weird Schon.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 06 Weird Schon.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 07 Banalitäten mit Flowtec.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 07 Banalitäten mit Flowtec.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 08 Grenzgänger mit Tufu & Loki.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 08 Grenzgänger mit Tufu & Loki.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 09 Fantastisch II.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 09 Fantastisch II.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 10 Lord Quas.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 10 Lord Quas.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 11 Wackness 101.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 11 Wackness 101.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 12 Zieh Dir Das Rein mit Anthony Drawn.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 12 Zieh Dir Das Rein mit Anthony Drawn.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 13 Jazz Auf Gleich.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 13 Jazz Auf Gleich.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 14 Absurde Ausfälle.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 14 Absurde Ausfälle.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 15 Outro.mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 15 Outro.mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 16 Jazz Auf Gleich (instrumental) (7- Bonus).mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 16 Jazz Auf Gleich (instrumental) (7- Bonus).mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 17 Die B-Seite mit Luk&Fil und Anthony Drawn (7- Bonus).mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 17 Die B-Seite mit Luk&Fil und Anthony Drawn (7- Bonus).mp3"
+            },
+            {
+              "name": "Eloquent & Wun Two - Jazz Auf Gleich - 18 Die B-Seite mit Luk&Fil und Anthony Drawn (Tufu Remix) (7- Bonus).mp3",
+              "fullPath": "Music/Eloquent/Jazz auf gleich/Eloquent & Wun Two - Jazz Auf Gleich - 18 Die B-Seite mit Luk&Fil und Anthony Drawn (Tufu Remix) (7- Bonus).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Samo Samo",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Samo Samo/cover.jpg"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 01 Intro.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 01 Intro.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 02 Als Ob.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 02 Als Ob.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 03 Ist Bleibt (Cuts von Delicious).mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 03 Ist Bleibt (Cuts von Delicious).mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 04 Gratisfick (mit Negroman).mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 04 Gratisfick (mit Negroman).mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 05 Nachmittag (Cuts von Delicoius).mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 05 Nachmittag (Cuts von Delicoius).mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 06 Keine Meile.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 06 Keine Meile.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 07 Viel Für Dich.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 07 Viel Für Dich.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 08 Oh Lawd.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 08 Oh Lawd.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 09 Intermission.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 09 Intermission.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 10 Des-O-Lat.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 10 Des-O-Lat.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 11 Samo Samo.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 11 Samo Samo.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 12 Mürrisch.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 12 Mürrisch.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 13 Sondermüll.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 13 Sondermüll.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 14 Un-Titled.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 14 Un-Titled.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 15 Welt Dafür.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 15 Welt Dafür.mp3"
+            },
+            {
+              "name": "Eloquent - Samo Samo - 16 Zum Vergessen.mp3",
+              "fullPath": "Music/Eloquent/Samo Samo/Eloquent - Samo Samo - 16 Zum Vergessen.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Folie à deux",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Eloquent/Folie à deux/cover.jpg"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 01 Le Prologue.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 01 Le Prologue.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 02 Wenn Du Rappst.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 02 Wenn Du Rappst.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 03 Eimerweise.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 03 Eimerweise.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 04 skit 1.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 04 skit 1.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 05 Unser Zeug.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 05 Unser Zeug.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 06 Wer denn mit Döll & Niko Soprano.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 06 Wer denn mit Döll & Niko Soprano.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 07 skit 2.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 07 skit 2.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 08 Foret des algues 2.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 08 Foret des algues 2.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 09 Fünfzehn.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 09 Fünfzehn.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 10 Karate.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 10 Karate.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 11 T - Neun.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 11 T - Neun.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 12 Heiser Minelli.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 12 Heiser Minelli.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 13 Kübelweise mit Negroman.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 13 Kübelweise mit Negroman.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 14 skit 3.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 14 skit 3.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 15 Dayjob.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 15 Dayjob.mp3"
+            },
+            {
+              "name": "Folie à deux - Folie à deux (Twit one & Eloquent) - 16 Parole d'adieu.mp3",
+              "fullPath": "Music/Eloquent/Folie à deux/Folie à deux - Folie à deux (Twit one & Eloquent) - 16 Parole d'adieu.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wun Two",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Wun Two/pic.jpg"
+        },
+        {
+          "name": "Paseadero",
+          "content": [
+            {
+              "name": "cover.JPG",
+              "fullPath": "Music/Wun Two/Paseadero/cover.JPG"
+            },
+            {
+              "name": "Wun Two & Hubert Daviz - Paseadero EP.mp3",
+              "fullPath": "Music/Wun Two/Paseadero/Wun Two & Hubert Daviz - Paseadero EP.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Astrosecks",
+          "content": [
+            {
+              "name": "cover.JPG",
+              "fullPath": "Music/Wun Two/Astrosecks/cover.JPG"
+            },
+            {
+              "name": "wun two - astro.s.e.c.k.s.mp3",
+              "fullPath": "Music/Wun Two/Astrosecks/wun two - astro.s.e.c.k.s.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Baker's Dozen",
+          "content": [
+            {
+              "name": "Baker's Dozen - Wun Two [Full Album].mp3",
+              "fullPath": "Music/Wun Two/Baker's Dozen/Baker's Dozen - Wun Two [Full Album].mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Baker's Dozen/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "A Jazz Remix",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/A Jazz Remix/cover.jpg"
+            },
+            {
+              "name": "Wun Two - A Jazz Remix.mp3",
+              "fullPath": "Music/Wun Two/A Jazz Remix/Wun Two - A Jazz Remix.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Penthouse",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Penthouse/cover.jpg"
+            },
+            {
+              "name": "Wun Two - Penthouse (Full Album).mp3",
+              "fullPath": "Music/Wun Two/Penthouse/Wun Two - Penthouse (Full Album).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Rio",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Rio/cover.jpg"
+            },
+            {
+              "name": "Wun Two - Rio (Full Album).mp3",
+              "fullPath": "Music/Wun Two/Rio/Wun Two - Rio (Full Album).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Pássaro",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Pássaro/cover.jpg"
+            },
+            {
+              "name": "wun two - pássaro.mp3",
+              "fullPath": "Music/Wun Two/Pássaro/wun two - pássaro.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Rufinho",
+          "content": [
+            {
+              "name": "BeatPete & Wun Two - Rufinho - Brazil Mix.mp3",
+              "fullPath": "Music/Wun Two/Rufinho/BeatPete & Wun Two - Rufinho - Brazil Mix.mp3"
+            },
+            {
+              "name": "rufinho-cover.jpg",
+              "fullPath": "Music/Wun Two/Rufinho/rufinho-cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ships",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Ships/cover.jpg"
+            },
+            {
+              "name": "wun two - ships (cassette tape) (2013).mp3",
+              "fullPath": "Music/Wun Two/Ships/wun two - ships (cassette tape) (2013).mp3"
+            }
+          ]
+        },
+        {
+          "name": "The fat EP",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/The fat EP/cover.jpg"
+            },
+            {
+              "name": "wun two & biggie smalls ‎– the fat EP.mp3",
+              "fullPath": "Music/Wun Two/The fat EP/wun two & biggie smalls ‎– the fat EP.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Vapowavez",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Vapowavez/cover.jpg"
+            },
+            {
+              "name": "Wun Two & Hubert Daviz - vapowavez.mp3",
+              "fullPath": "Music/Wun Two/Vapowavez/Wun Two & Hubert Daviz - vapowavez.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Threefinger Beat Set",
+          "content": [
+            {
+              "name": "cover.JPG",
+              "fullPath": "Music/Wun Two/Threefinger Beat Set/cover.JPG"
+            },
+            {
+              "name": "Wun Two - Threefinger Beat Set Vol. 16.mp3",
+              "fullPath": "Music/Wun Two/Threefinger Beat Set/Wun Two - Threefinger Beat Set Vol. 16.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Wait for silence",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Wun Two/Wait for silence/cover.jpg"
+            },
+            {
+              "name": "Wun Two - Wait For Silence.EP.mp3",
+              "fullPath": "Music/Wun Two/Wait for silence/Wun Two - Wait For Silence.EP.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jazz Liberators",
+      "content": [
+        {
+          "name": "pic.JPG",
+          "fullPath": "Music/Jazz Liberators/pic.JPG"
+        },
+        {
+          "name": "Clin d'oeil",
+          "content": [
+            {
+              "name": "01. Clin d'oeil.mp3",
+              "fullPath": "Music/Jazz Liberators/Clin d'oeil/01. Clin d'oeil.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Jazz Liberators/Clin d'oeil/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fruit of the past",
+          "content": [
+            {
+              "name": "01. Fruit of the Past.mp3",
+              "fullPath": "Music/Jazz Liberators/Fruit of the past/01. Fruit of the Past.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Jazz Liberators/Fruit of the past/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kram aus der Ecke",
+      "content": [
+        {
+          "name": "cover.jpg",
+          "fullPath": "Music/Kram aus der Ecke/cover.jpg"
+        },
+        {
+          "name": "Got Jazz Need Money",
+          "content": [
+            {
+              "name": "01. Got Jazz Need Money.mp3",
+              "fullPath": "Music/Kram aus der Ecke/Got Jazz Need Money/01. Got Jazz Need Money.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Kram aus der Ecke/Got Jazz Need Money/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Red Hot Chili Peppers/pic.jpg"
+        },
+        {
+          "name": "Californication",
+          "content": [
+            {
+              "name": "01 Around the World.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/01 Around the World.m4a"
+            },
+            {
+              "name": "02 Parallel Universe.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/02 Parallel Universe.m4a"
+            },
+            {
+              "name": "03 Scartissue.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/03 Scartissue.m4a"
+            },
+            {
+              "name": "04 Otherside.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/04 Otherside.m4a"
+            },
+            {
+              "name": "05 Get On Top.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/05 Get On Top.m4a"
+            },
+            {
+              "name": "06 Californication.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/06 Californication.m4a"
+            },
+            {
+              "name": "07 Easily.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/07 Easily.m4a"
+            },
+            {
+              "name": "08 Porcelain.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/08 Porcelain.m4a"
+            },
+            {
+              "name": "09 Emit Remmus.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/09 Emit Remmus.m4a"
+            },
+            {
+              "name": "10 I like Dirt.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/10 I like Dirt.m4a"
+            },
+            {
+              "name": "11 this Velvet glove.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/11 this Velvet glove.m4a"
+            },
+            {
+              "name": "12 Savior.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/12 Savior.m4a"
+            },
+            {
+              "name": "13 Purple Stain.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/13 Purple Stain.m4a"
+            },
+            {
+              "name": "14 Right on Time.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/14 Right on Time.m4a"
+            },
+            {
+              "name": "15 Road Trippin`.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/15 Road Trippin`.m4a"
+            },
+            {
+              "name": "ZuneAlbumArt.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/Californication/ZuneAlbumArt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "By the Way",
+          "content": [
+            {
+              "name": "01. Universally Speaking.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/01. Universally Speaking.mp3"
+            },
+            {
+              "name": "02. This Is the Place.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/02. This Is the Place.mp3"
+            },
+            {
+              "name": "03. Dosed.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/03. Dosed.mp3"
+            },
+            {
+              "name": "04. Don't Forget Me.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/04. Don't Forget Me.mp3"
+            },
+            {
+              "name": "05. The Zephyr Song.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/05. The Zephyr Song.mp3"
+            },
+            {
+              "name": "06. Can't Stop.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/06. Can't Stop.mp3"
+            },
+            {
+              "name": "07. I Could Die for You.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/07. I Could Die for You.mp3"
+            },
+            {
+              "name": "08. Midnight.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/08. Midnight.mp3"
+            },
+            {
+              "name": "09. Throw Away Your Television.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/09. Throw Away Your Television.mp3"
+            },
+            {
+              "name": "10. Cabron.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/10. Cabron.mp3"
+            },
+            {
+              "name": "11. Tear.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/11. Tear.mp3"
+            },
+            {
+              "name": "12. On Mercury.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/12. On Mercury.mp3"
+            },
+            {
+              "name": "13. Minor Thing.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/13. Minor Thing.mp3"
+            },
+            {
+              "name": "14. Warm Tape.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/14. Warm Tape.mp3"
+            },
+            {
+              "name": "15. Venice Queen.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/15. Venice Queen.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/By the Way/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Stadium Arcadium Mars",
+          "content": [
+            {
+              "name": "01. Desecration Smile.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/01. Desecration Smile.m4a"
+            },
+            {
+              "name": "02. Tell Me Baby.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/02. Tell Me Baby.m4a"
+            },
+            {
+              "name": "03. Hard to Concentrate.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/03. Hard to Concentrate.m4a"
+            },
+            {
+              "name": "04. 21st Century.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/04. 21st Century.m4a"
+            },
+            {
+              "name": "05. She Looks to Me.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/05. She Looks to Me.m4a"
+            },
+            {
+              "name": "06. Readymade.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/06. Readymade.m4a"
+            },
+            {
+              "name": "07. If.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/07. If.m4a"
+            },
+            {
+              "name": "08. Make You Feel Better.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/08. Make You Feel Better.m4a"
+            },
+            {
+              "name": "09. Animal Bar.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/09. Animal Bar.m4a"
+            },
+            {
+              "name": "10. So Much I.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/10. So Much I.m4a"
+            },
+            {
+              "name": "11. Storm in a Teacup.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/11. Storm in a Teacup.m4a"
+            },
+            {
+              "name": "12. We Believe.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/12. We Believe.m4a"
+            },
+            {
+              "name": "13. Turn It Again.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/13. Turn It Again.m4a"
+            },
+            {
+              "name": "14. Death of a Martian.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/14. Death of a Martian.m4a"
+            },
+            {
+              "name": "ZuneAlbumArt.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Mars/ZuneAlbumArt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Blood Sugar Sex Magic",
+          "content": [
+            {
+              "name": "01 Hie Power of Equality.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/01 Hie Power of Equality.m4a"
+            },
+            {
+              "name": "02 If you have to ask.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/02 If you have to ask.m4a"
+            },
+            {
+              "name": "03 Breaking the Girl.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/03 Breaking the Girl.m4a"
+            },
+            {
+              "name": "04 Funky Monks.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/04 Funky Monks.m4a"
+            },
+            {
+              "name": "05 Suck my Kiss.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/05 Suck my Kiss.m4a"
+            },
+            {
+              "name": "06 I could have lied.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/06 I could have lied.m4a"
+            },
+            {
+              "name": "07 Mellow Ship.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/07 Mellow Ship.m4a"
+            },
+            {
+              "name": "08 The Righieous ß the Wicked.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/08 The Righieous ß the Wicked.m4a"
+            },
+            {
+              "name": "09 Give it away.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/09 Give it away.m4a"
+            },
+            {
+              "name": "10 Blood Sugar Sex Magic.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/10 Blood Sugar Sex Magic.m4a"
+            },
+            {
+              "name": "11 Under the Bridge.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/11 Under the Bridge.m4a"
+            },
+            {
+              "name": "12 Naked in the Rain.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/12 Naked in the Rain.m4a"
+            },
+            {
+              "name": "13 Apache Rose Peacock.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/13 Apache Rose Peacock.m4a"
+            },
+            {
+              "name": "14 The Greeting Song.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/14 The Greeting Song.m4a"
+            },
+            {
+              "name": "15 My lovely Man.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/15 My lovely Man.m4a"
+            },
+            {
+              "name": "16 Sir Psycho Sex.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/16 Sir Psycho Sex.m4a"
+            },
+            {
+              "name": "17 Red Hot.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/17 Red Hot.m4a"
+            },
+            {
+              "name": "ZuneAlbumArt.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/Blood Sugar Sex Magic/ZuneAlbumArt.jpg"
+            }
+          ]
+        },
+        {
+          "name": "The Uplift Mofo Party Plan",
+          "content": [
+            {
+              "name": "01 Fight Like a Brave.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/01 Fight Like a Brave.mp3"
+            },
+            {
+              "name": "02 Funky Crime.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/02 Funky Crime.mp3"
+            },
+            {
+              "name": "03 Me and My Friends.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/03 Me and My Friends.mp3"
+            },
+            {
+              "name": "04 Backwoods.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/04 Backwoods.mp3"
+            },
+            {
+              "name": "05 Skinny Sweaty Man.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/05 Skinny Sweaty Man.mp3"
+            },
+            {
+              "name": "06 Behind the Sun.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/06 Behind the Sun.mp3"
+            },
+            {
+              "name": "07 Subterranean Homesick Blues.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/07 Subterranean Homesick Blues.mp3"
+            },
+            {
+              "name": "08 Party on Your Pussy (Formerly Special Secret Song Inside).mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/08 Party on Your Pussy (Formerly Special Secret Song Inside).mp3"
+            },
+            {
+              "name": "09 No Chump Love Sucker.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/09 No Chump Love Sucker.mp3"
+            },
+            {
+              "name": "10 Walkin' on Down the Road.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/10 Walkin' on Down the Road.mp3"
+            },
+            {
+              "name": "11 Love Trilogy.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/11 Love Trilogy.mp3"
+            },
+            {
+              "name": "12 Organic Anti-Beat Box Band.mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/12 Organic Anti-Beat Box Band.mp3"
+            },
+            {
+              "name": "13 Behind the Sun [-][Demo Version][Instrumental].mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/13 Behind the Sun [-][Demo Version][Instrumental].mp3"
+            },
+            {
+              "name": "14 Me and My Friends [-][Demo Version][Instrumental].mp3",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/14 Me and My Friends [-][Demo Version][Instrumental].mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/The Uplift Mofo Party Plan/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Stadium Arcadium Jupiter",
+          "content": [
+            {
+              "name": "01. Dani California.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/01. Dani California.m4a"
+            },
+            {
+              "name": "03. Charlie.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/03. Charlie.m4a"
+            },
+            {
+              "name": "04. Stadium Arcadium.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/04. Stadium Arcadium.m4a"
+            },
+            {
+              "name": "05. Hump the Bump.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/05. Hump the Bump.m4a"
+            },
+            {
+              "name": "06. She is only 18.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/06. She is only 18.m4a"
+            },
+            {
+              "name": "07. Slow Cheetah.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/07. Slow Cheetah.m4a"
+            },
+            {
+              "name": "08. Torture me.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/08. Torture me.m4a"
+            },
+            {
+              "name": "09. Strip my mind.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/09. Strip my mind.m4a"
+            },
+            {
+              "name": "10. Especially in Michigan.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/10. Especially in Michigan.m4a"
+            },
+            {
+              "name": "11. Warlocks.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/11. Warlocks.m4a"
+            },
+            {
+              "name": "12. C'mon girl.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/12. C'mon girl.m4a"
+            },
+            {
+              "name": "13. Wet Sand.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/13. Wet Sand.m4a"
+            },
+            {
+              "name": "14. Hey.m4a",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/14. Hey.m4a"
+            },
+            {
+              "name": "ZuneAlbumArt.jpg",
+              "fullPath": "Music/Red Hot Chili Peppers/Stadium Arcadium Jupiter/ZuneAlbumArt.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubert Daviz",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Hubert Daviz/pic.jpg"
+        },
+        {
+          "name": "A romanian jazz mix",
+          "content": [
+            {
+              "name": "03. A romanian jazz mix.mp3",
+              "fullPath": "Music/Hubert Daviz/A romanian jazz mix/03. A romanian jazz mix.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Hubert Daviz/A romanian jazz mix/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Beattape",
+          "content": [
+            {
+              "name": "01. Beattape.mp3",
+              "fullPath": "Music/Hubert Daviz/Beattape/01. Beattape.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Hubert Daviz/Beattape/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Framework EP",
+          "content": [
+            {
+              "name": "02. Framework EP.mp3",
+              "fullPath": "Music/Hubert Daviz/Framework EP/02. Framework EP.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Hubert Daviz/Framework EP/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Proceduri de Rutina",
+          "content": [
+            {
+              "name": "01. Cuvant Introductiv.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/01. Cuvant Introductiv.mp3"
+            },
+            {
+              "name": "02. Intr-o lume plina de caini.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/02. Intr-o lume plina de caini.mp3"
+            },
+            {
+              "name": "03. O alta idee.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/03. O alta idee.mp3"
+            },
+            {
+              "name": "04. Primul fragment.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/04. Primul fragment.mp3"
+            },
+            {
+              "name": "05. Pe vale (prima parte).mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/05. Pe vale (prima parte).mp3"
+            },
+            {
+              "name": "06. Al doilea fragment.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/06. Al doilea fragment.mp3"
+            },
+            {
+              "name": "07. Joi.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/07. Joi.mp3"
+            },
+            {
+              "name": "08. Pe vale (doua parte).mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/08. Pe vale (doua parte).mp3"
+            },
+            {
+              "name": "09. Al Treilea fragment.mp3",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/09. Al Treilea fragment.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Hubert Daviz/Proceduri de Rutina/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stieber Twins",
+      "content": [
+        {
+          "name": "pic.png",
+          "fullPath": "Music/Stieber Twins/pic.png"
+        },
+        {
+          "name": "Fenster zum Hof",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/01. Intro.mp3"
+            },
+            {
+              "name": "02. Fenster zum Hof.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/02. Fenster zum Hof.mp3"
+            },
+            {
+              "name": "03. Allein zu zweit.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/03. Allein zu zweit.mp3"
+            },
+            {
+              "name": "04. Einmal Macco, Zweimal Stieber.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/04. Einmal Macco, Zweimal Stieber.mp3"
+            },
+            {
+              "name": "05. Chris' Interlude.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/05. Chris' Interlude.mp3"
+            },
+            {
+              "name": "06. Fahrenheit 72.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/06. Fahrenheit 72.mp3"
+            },
+            {
+              "name": "07. Doppelt nicht Stereo.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/07. Doppelt nicht Stereo.mp3"
+            },
+            {
+              "name": "08. Mar'lude.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/08. Mar'lude.mp3"
+            },
+            {
+              "name": "09. Fenster zum Hof (Remix).mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/09. Fenster zum Hof (Remix).mp3"
+            },
+            {
+              "name": "10. Fünfzig-Fünfzig.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/10. Fünfzig-Fünfzig.mp3"
+            },
+            {
+              "name": "11. PBB Get's Physical.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/11. PBB Get's Physical.mp3"
+            },
+            {
+              "name": "12. Tausend MC's.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/12. Tausend MC's.mp3"
+            },
+            {
+              "name": "13. Outro_ The key to all forms of rockin.mp3",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/13. Outro_ The key to all forms of rockin.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Stieber Twins/Fenster zum Hof/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Retrogott",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Retrogott/pic.jpg"
+        },
+        {
+          "name": "Vintage Fresh",
+          "content": [
+            {
+              "name": "01. Militaer Millionaer.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/01. Militaer Millionaer.mp3"
+            },
+            {
+              "name": "02. Slow Down Fast.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/02. Slow Down Fast.mp3"
+            },
+            {
+              "name": "03. Rote Erde.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/03. Rote Erde.mp3"
+            },
+            {
+              "name": "04. Blindgaenger.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/04. Blindgaenger.mp3"
+            },
+            {
+              "name": "05. Wohlfuhlreim.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/05. Wohlfuhlreim.mp3"
+            },
+            {
+              "name": "06. Ein Anruf.mp3",
+              "fullPath": "Music/Retrogott/Vintage Fresh/06. Ein Anruf.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Vintage Fresh/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Es muss so sein",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/01. Intro.mp3"
+            },
+            {
+              "name": "02. Muchacho Plastico.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/02. Muchacho Plastico.mp3"
+            },
+            {
+              "name": "03. Kabelcouch.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/03. Kabelcouch.mp3"
+            },
+            {
+              "name": "04. Solarantrieb.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/04. Solarantrieb.mp3"
+            },
+            {
+              "name": "05. Wieeinhurensohn.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/05. Wieeinhurensohn.mp3"
+            },
+            {
+              "name": "06. Weltraumschrott.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/06. Weltraumschrott.mp3"
+            },
+            {
+              "name": "07. Skit.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/07. Skit.mp3"
+            },
+            {
+              "name": "08. Esmusssosein.mp3",
+              "fullPath": "Music/Retrogott/Es muss so sein/08. Esmusssosein.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Es muss so sein/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Hardcore",
+          "content": [
+            {
+              "name": "01. Im großen Gefäß (Intro).mp3",
+              "fullPath": "Music/Retrogott/Hardcore/01. Im großen Gefäß (Intro).mp3"
+            },
+            {
+              "name": "02. Demo.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/02. Demo.mp3"
+            },
+            {
+              "name": "03. Beathead.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/03. Beathead.mp3"
+            },
+            {
+              "name": "04. Hardcore.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/04. Hardcore.mp3"
+            },
+            {
+              "name": "05. Kein Original.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/05. Kein Original.mp3"
+            },
+            {
+              "name": "06. Orbiter.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/06. Orbiter.mp3"
+            },
+            {
+              "name": "07. Amen.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/07. Amen.mp3"
+            },
+            {
+              "name": "08. Nittigritti.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/08. Nittigritti.mp3"
+            },
+            {
+              "name": "09. Konkurrenz schläft nicht.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/09. Konkurrenz schläft nicht.mp3"
+            },
+            {
+              "name": "10. Gruenes Licht.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/10. Gruenes Licht.mp3"
+            },
+            {
+              "name": "11. Lee Morgan.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/11. Lee Morgan.mp3"
+            },
+            {
+              "name": "12. Der Siegeszug der Güterzüge.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/12. Der Siegeszug der Güterzüge.mp3"
+            },
+            {
+              "name": "13. Der Krieg.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/13. Der Krieg.mp3"
+            },
+            {
+              "name": "14. Di ay ti si (remix).mp3",
+              "fullPath": "Music/Retrogott/Hardcore/14. Di ay ti si (remix).mp3"
+            },
+            {
+              "name": "15. Medium Imperium.mp3",
+              "fullPath": "Music/Retrogott/Hardcore/15. Medium Imperium.mp3"
+            },
+            {
+              "name": "Retrogott-Hardcore-Cover.jpg",
+              "fullPath": "Music/Retrogott/Hardcore/Retrogott-Hardcore-Cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Auf ein Neues",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/01. Intro.mp3"
+            },
+            {
+              "name": "02. In einer Zeit.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/02. In einer Zeit.mp3"
+            },
+            {
+              "name": "03. Auf ein Neues.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/03. Auf ein Neues.mp3"
+            },
+            {
+              "name": "04. Sonne ohne Koks.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/04. Sonne ohne Koks.mp3"
+            },
+            {
+              "name": "05. Ashflow.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/05. Ashflow.mp3"
+            },
+            {
+              "name": "06. iFick.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/06. iFick.mp3"
+            },
+            {
+              "name": "07. Das Elend & Der Führer.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/07. Das Elend & Der Führer.mp3"
+            },
+            {
+              "name": "08. 4jeck.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/08. 4jeck.mp3"
+            },
+            {
+              "name": "09. Der Autor sagt.mp3",
+              "fullPath": "Music/Retrogott/Auf ein Neues/09. Der Autor sagt.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Auf ein Neues/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "MMX",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/MMX/01. Intro.mp3"
+            },
+            {
+              "name": "02. Der kirgisische Reiter.mp3",
+              "fullPath": "Music/Retrogott/MMX/02. Der kirgisische Reiter.mp3"
+            },
+            {
+              "name": "03. Trasse.mp3",
+              "fullPath": "Music/Retrogott/MMX/03. Trasse.mp3"
+            },
+            {
+              "name": "04. Die Braut die ein Mann war.mp3",
+              "fullPath": "Music/Retrogott/MMX/04. Die Braut die ein Mann war.mp3"
+            },
+            {
+              "name": "05. Heu.mp3",
+              "fullPath": "Music/Retrogott/MMX/05. Heu.mp3"
+            },
+            {
+              "name": "06. Skit.mp3",
+              "fullPath": "Music/Retrogott/MMX/06. Skit.mp3"
+            },
+            {
+              "name": "07. Drumpads.mp3",
+              "fullPath": "Music/Retrogott/MMX/07. Drumpads.mp3"
+            },
+            {
+              "name": "08. Metaradikale.mp3",
+              "fullPath": "Music/Retrogott/MMX/08. Metaradikale.mp3"
+            },
+            {
+              "name": "09. Nahbesprechungseffekt.mp3",
+              "fullPath": "Music/Retrogott/MMX/09. Nahbesprechungseffekt.mp3"
+            },
+            {
+              "name": "10. 2010.mp3",
+              "fullPath": "Music/Retrogott/MMX/10. 2010.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/MMX/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Pen Pals",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/01. Intro.mp3"
+            },
+            {
+              "name": "02. Over all.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/02. Over all.mp3"
+            },
+            {
+              "name": "03. Swoop.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/03. Swoop.mp3"
+            },
+            {
+              "name": "04. Awesome Interlude.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/04. Awesome Interlude.mp3"
+            },
+            {
+              "name": "05. Abstract Perversion.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/05. Abstract Perversion.mp3"
+            },
+            {
+              "name": "06. Intense Indignation.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/06. Intense Indignation.mp3"
+            },
+            {
+              "name": "07. Stuck in the Funk.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/07. Stuck in the Funk.mp3"
+            },
+            {
+              "name": "08. MC's can't hang.mp3",
+              "fullPath": "Music/Retrogott/Pen Pals/08. MC's can't hang.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Pen Pals/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "RetroMastas",
+          "content": [
+            {
+              "name": "01. Expertise.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/01. Expertise.mp3"
+            },
+            {
+              "name": "02. Aknowledge this.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/02. Aknowledge this.mp3"
+            },
+            {
+              "name": "03. Show Time.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/03. Show Time.mp3"
+            },
+            {
+              "name": "04. Raw Scheisse.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/04. Raw Scheisse.mp3"
+            },
+            {
+              "name": "05. Modernegladiatoren.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/05. Modernegladiatoren.mp3"
+            },
+            {
+              "name": "06. Was Abgeht.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/06. Was Abgeht.mp3"
+            },
+            {
+              "name": "07. Bonus.mp3",
+              "fullPath": "Music/Retrogott/RetroMastas/07. Bonus.mp3"
+            },
+            {
+              "name": "kutmastas.jpg",
+              "fullPath": "Music/Retrogott/RetroMastas/kutmastas.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Jetzt schämst du dich",
+          "content": [
+            {
+              "name": "01. Pornofilmkäse.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/01. Pornofilmkäse.mp3"
+            },
+            {
+              "name": "02. Yo Kurt!.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/02. Yo Kurt!.mp3"
+            },
+            {
+              "name": "03. Radiowecker.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/03. Radiowecker.mp3"
+            },
+            {
+              "name": "04. Strassenkampf.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/04. Strassenkampf.mp3"
+            },
+            {
+              "name": "05. Gangsterberuf.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/05. Gangsterberuf.mp3"
+            },
+            {
+              "name": "06. Rokin.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/06. Rokin.mp3"
+            },
+            {
+              "name": "07. Hurensohnonolge.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/07. Hurensohnonolge.mp3"
+            },
+            {
+              "name": "08. Hast du einen cut.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/08. Hast du einen cut.mp3"
+            },
+            {
+              "name": "09. Stelldichnichtsoan.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/09. Stelldichnichtsoan.mp3"
+            },
+            {
+              "name": "10. Fresh und unbekannt.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/10. Fresh und unbekannt.mp3"
+            },
+            {
+              "name": "11. Pappmensch.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/11. Pappmensch.mp3"
+            },
+            {
+              "name": "12. Viel Stress.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/12. Viel Stress.mp3"
+            },
+            {
+              "name": "13. Jetzt schaemst du dich.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/13. Jetzt schaemst du dich.mp3"
+            },
+            {
+              "name": "14. Nicht so Schwuu.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/14. Nicht so Schwuu.mp3"
+            },
+            {
+              "name": "15. Rapper wie.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/15. Rapper wie.mp3"
+            },
+            {
+              "name": "16. Der Erste.mp3",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/16. Der Erste.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Jetzt schämst du dich/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sezession",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/Sezession/01. Intro.mp3"
+            },
+            {
+              "name": "02. Reingeschaeftlich.mp3",
+              "fullPath": "Music/Retrogott/Sezession/02. Reingeschaeftlich.mp3"
+            },
+            {
+              "name": "03. Serviervorschlag.mp3",
+              "fullPath": "Music/Retrogott/Sezession/03. Serviervorschlag.mp3"
+            },
+            {
+              "name": "04. Derkampfmitderangst.mp3",
+              "fullPath": "Music/Retrogott/Sezession/04. Derkampfmitderangst.mp3"
+            },
+            {
+              "name": "05. Rezepte.mp3",
+              "fullPath": "Music/Retrogott/Sezession/05. Rezepte.mp3"
+            },
+            {
+              "name": "06. Lebemann.mp3",
+              "fullPath": "Music/Retrogott/Sezession/06. Lebemann.mp3"
+            },
+            {
+              "name": "07. Zauberbohne.mp3",
+              "fullPath": "Music/Retrogott/Sezession/07. Zauberbohne.mp3"
+            },
+            {
+              "name": "08. Sezession!.mp3",
+              "fullPath": "Music/Retrogott/Sezession/08. Sezession!.mp3"
+            },
+            {
+              "name": "09. Diebedrohung.mp3",
+              "fullPath": "Music/Retrogott/Sezession/09. Diebedrohung.mp3"
+            },
+            {
+              "name": "10. Modernerschmutz.mp3",
+              "fullPath": "Music/Retrogott/Sezession/10. Modernerschmutz.mp3"
+            },
+            {
+              "name": "11. Geldsucht.mp3",
+              "fullPath": "Music/Retrogott/Sezession/11. Geldsucht.mp3"
+            },
+            {
+              "name": "12. Funkfreaker.mp3",
+              "fullPath": "Music/Retrogott/Sezession/12. Funkfreaker.mp3"
+            },
+            {
+              "name": "13. Aufhaenger.mp3",
+              "fullPath": "Music/Retrogott/Sezession/13. Aufhaenger.mp3"
+            },
+            {
+              "name": "14. Doin'here.mp3",
+              "fullPath": "Music/Retrogott/Sezession/14. Doin'here.mp3"
+            },
+            {
+              "name": "15. Laktosefrei.mp3",
+              "fullPath": "Music/Retrogott/Sezession/15. Laktosefrei.mp3"
+            },
+            {
+              "name": "16. Outro.mp3",
+              "fullPath": "Music/Retrogott/Sezession/16. Outro.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Sezession/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Fresh und Umbenannt",
+          "content": [
+            {
+              "name": "01. Intro.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/01. Intro.mp3"
+            },
+            {
+              "name": "02. Fabrik.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/02. Fabrik.mp3"
+            },
+            {
+              "name": "03. Hundeundgeld.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/03. Hundeundgeld.mp3"
+            },
+            {
+              "name": "04. Genugvongott.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/04. Genugvongott.mp3"
+            },
+            {
+              "name": "05. Quetschkommode.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/05. Quetschkommode.mp3"
+            },
+            {
+              "name": "06. Doindamage.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/06. Doindamage.mp3"
+            },
+            {
+              "name": "07. Keinwort.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/07. Keinwort.mp3"
+            },
+            {
+              "name": "08. Dermotor.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/08. Dermotor.mp3"
+            },
+            {
+              "name": "09. Sofunktioniertdiewelt.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/09. Sofunktioniertdiewelt.mp3"
+            },
+            {
+              "name": "10. Freshundunbenannt.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/10. Freshundunbenannt.mp3"
+            },
+            {
+              "name": "11. Fahrstuhl.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/11. Fahrstuhl.mp3"
+            },
+            {
+              "name": "12. Liebemachen.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/12. Liebemachen.mp3"
+            },
+            {
+              "name": "13. Featurenummer.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/13. Featurenummer.mp3"
+            },
+            {
+              "name": "14. Ein$Note.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/14. Ein$Note.mp3"
+            },
+            {
+              "name": "15. Ausliebezudenbeats.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/15. Ausliebezudenbeats.mp3"
+            },
+            {
+              "name": "16. Diefragebleibtgeschlossen.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/16. Diefragebleibtgeschlossen.mp3"
+            },
+            {
+              "name": "17. Zuvieldesguten.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/17. Zuvieldesguten.mp3"
+            },
+            {
+              "name": "18. Gucknich.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/18. Gucknich.mp3"
+            },
+            {
+              "name": "19. Rapundzigaretten.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/19. Rapundzigaretten.mp3"
+            },
+            {
+              "name": "20. Freshdopeofcourse.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/20. Freshdopeofcourse.mp3"
+            },
+            {
+              "name": "21. Lachmuskel.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/21. Lachmuskel.mp3"
+            },
+            {
+              "name": "22. Outro.mp3",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/22. Outro.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Fresh und Umbenannt/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Der Stoff aus dem die Regenschirme sind",
+          "content": [
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind1.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind1.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind11.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind11.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind13.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind13.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind14.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind14.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind15.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind15.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind16.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind16.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind20.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind20.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind21.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind21.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind22.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind22.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind24.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind24.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind3.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind3.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind6.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind6.mp3"
+            },
+            {
+              "name": "01. Der Stoff aus dem die Regenschirme sind9.mp3",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/01. Der Stoff aus dem die Regenschirme sind9.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Retrogott/Der Stoff aus dem die Regenschirme sind/cover.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jazzkantine",
+      "content": [
+        {
+          "name": "ZuneAlbumArt.jpg",
+          "fullPath": "Music/Jazzkantine/ZuneAlbumArt.jpg"
+        },
+        {
+          "name": "Jazzkantine",
+          "content": [
+            {
+              "name": "55555.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/55555.mp3"
+            },
+            {
+              "name": "Das Jazzhaus.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Das Jazzhaus.mp3"
+            },
+            {
+              "name": "Die Jazzkantine.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Die Jazzkantine.mp3"
+            },
+            {
+              "name": "Einfach mit Jazz.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Einfach mit Jazz.mp3"
+            },
+            {
+              "name": "Es ist Jazz.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Es ist Jazz.mp3"
+            },
+            {
+              "name": "Nachspeise.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Nachspeise.mp3"
+            },
+            {
+              "name": "Neue Welt.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Neue Welt.mp3"
+            },
+            {
+              "name": "Oh Jäzzz (LP-Version).mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Oh Jäzzz (LP-Version).mp3"
+            },
+            {
+              "name": "Respekt.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Respekt.mp3"
+            },
+            {
+              "name": "Schritt für Schritt.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Schritt für Schritt.mp3"
+            },
+            {
+              "name": "Tu was Du willst.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Tu was Du willst.mp3"
+            },
+            {
+              "name": "Unsere Philosophie.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Unsere Philosophie.mp3"
+            },
+            {
+              "name": "Vorspeise.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Vorspeise.mp3"
+            },
+            {
+              "name": "Wenn Du mich fragst.mp3",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/Wenn Du mich fragst.mp3"
+            },
+            {
+              "name": "ZuneAlbumArt.jpg",
+              "fullPath": "Music/Jazzkantine/Jazzkantine/ZuneAlbumArt.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twit One",
+      "content": [
+        {
+          "name": "pic.jpg",
+          "fullPath": "Music/Twit One/pic.jpg"
+        },
+        {
+          "name": "Hansi's Room",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Twit One/Hansi's Room/cover.jpg"
+            },
+            {
+              "name": "Hansi's Room _ Twit One.mp3",
+              "fullPath": "Music/Twit One/Hansi's Room/Hansi's Room _ Twit One.mp3"
+            }
+          ]
+        },
+        {
+          "name": "Puzzles",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Twit One/Puzzles/cover.jpg"
+            },
+            {
+              "name": "Twit One - Puzzles ((FULL ALBUM)).mp3",
+              "fullPath": "Music/Twit One/Puzzles/Twit One - Puzzles ((FULL ALBUM)).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Stepping Stones",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Twit One/Stepping Stones/cover.jpg"
+            },
+            {
+              "name": "Twit One - Stepping Stones (Full LP).mp3",
+              "fullPath": "Music/Twit One/Stepping Stones/Twit One - Stepping Stones (Full LP).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Hay Luv",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Twit One/Hay Luv/cover.jpg"
+            },
+            {
+              "name": "Twit One - Hay Luv ((FULL ALBUM)).mp3",
+              "fullPath": "Music/Twit One/Hay Luv/Twit One - Hay Luv ((FULL ALBUM)).mp3"
+            }
+          ]
+        },
+        {
+          "name": "Threefinger Beat Set",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Twit One/Threefinger Beat Set/cover.jpg"
+            },
+            {
+              "name": "Twit One ( Tito Wun ) - Threefinger Beat Set Vol. 23.mp3",
+              "fullPath": "Music/Twit One/Threefinger Beat Set/Twit One ( Tito Wun ) - Threefinger Beat Set Vol. 23.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miles Davis",
+      "content": [
+        {
+          "name": "miles-davis.jpg",
+          "fullPath": "Music/Miles Davis/miles-davis.jpg"
+        },
+        {
+          "name": "A Day in Paris",
+          "content": [
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Miles Davis/A Day in Paris/cover.jpg"
+            },
+            {
+              "name": "Miles Davis - A Day In Paris.mp3",
+              "fullPath": "Music/Miles Davis/A Day in Paris/Miles Davis - A Day In Paris.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Robert Schumann",
+      "content": [
+        {
+          "name": "cover.jpg",
+          "fullPath": "Music/Robert Schumann/cover.jpg"
+        },
+        {
+          "name": "Folder.jpg",
+          "fullPath": "Music/Robert Schumann/Folder.jpg"
+        },
+        {
+          "name": "4 Nachtstücke",
+          "content": [
+            {
+              "name": "01. Mehr langsam, oft zurückhaltend.mp3",
+              "fullPath": "Music/Robert Schumann/4 Nachtstücke/01. Mehr langsam, oft zurückhaltend.mp3"
+            },
+            {
+              "name": "02. Markiert und lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/4 Nachtstücke/02. Markiert und lebhaft.mp3"
+            },
+            {
+              "name": "03. Mit großer Lebhaftigkeit.mp3",
+              "fullPath": "Music/Robert Schumann/4 Nachtstücke/03. Mit großer Lebhaftigkeit.mp3"
+            },
+            {
+              "name": "04. Ad libitum, Einfach.mp3",
+              "fullPath": "Music/Robert Schumann/4 Nachtstücke/04. Ad libitum, Einfach.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Robert Schumann/4 Nachtstücke/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "8 Noveletten",
+          "content": [
+            {
+              "name": "01. Markiert und kräftig.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/01. Markiert und kräftig.mp3"
+            },
+            {
+              "name": "02. Äusserst rasch und mit Bravour.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/02. Äusserst rasch und mit Bravour.mp3"
+            },
+            {
+              "name": "03. Leicht und mit Humor.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/03. Leicht und mit Humor.mp3"
+            },
+            {
+              "name": "04. Ballmässig. Sehr munter.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/04. Ballmässig. Sehr munter.mp3"
+            },
+            {
+              "name": "05. Rauschend und festlich.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/05. Rauschend und festlich.mp3"
+            },
+            {
+              "name": "06. Sehr lebhaft mit vielem Humor.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/06. Sehr lebhaft mit vielem Humor.mp3"
+            },
+            {
+              "name": "07. Äusserst rasch.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/07. Äusserst rasch.mp3"
+            },
+            {
+              "name": "08. Sehr lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/08. Sehr lebhaft.mp3"
+            },
+            {
+              "name": "cover.PNG",
+              "fullPath": "Music/Robert Schumann/8 Noveletten/cover.PNG"
+            }
+          ]
+        },
+        {
+          "name": "Gesänge der Frühe",
+          "content": [
+            {
+              "name": "01. Im ruhigen Tempo.mp3",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/01. Im ruhigen Tempo.mp3"
+            },
+            {
+              "name": "02. Belebt, nicht zu rasch.mp3",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/02. Belebt, nicht zu rasch.mp3"
+            },
+            {
+              "name": "03. Lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/03. Lebhaft.mp3"
+            },
+            {
+              "name": "04. Bewegt.mp3",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/04. Bewegt.mp3"
+            },
+            {
+              "name": "05. Im Anfang ruhiges, im Verlauf bewegtes Tempo.mp3",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/05. Im Anfang ruhiges, im Verlauf bewegtes Tempo.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Robert Schumann/Gesänge der Frühe/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Geistervariationen",
+          "content": [
+            {
+              "name": "01. Thema. Leise, innig.mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/01. Thema. Leise, innig.mp3"
+            },
+            {
+              "name": "02. Var I.mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/02. Var I.mp3"
+            },
+            {
+              "name": "03. Var II. Canonisch.mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/03. Var II. Canonisch.mp3"
+            },
+            {
+              "name": "04. Var III. Etwas belebter.mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/04. Var III. Etwas belebter.mp3"
+            },
+            {
+              "name": "05. Var IV..mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/05. Var IV..mp3"
+            },
+            {
+              "name": "06. Var V..mp3",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/06. Var V..mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Robert Schumann/Geistervariationen/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Bunte Blätter",
+          "content": [
+            {
+              "name": "01. Nicht schnell, mit Innigkeit.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/01. Nicht schnell, mit Innigkeit.mp3"
+            },
+            {
+              "name": "02. Sehr rasch.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/02. Sehr rasch.mp3"
+            },
+            {
+              "name": "03. Frisch.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/03. Frisch.mp3"
+            },
+            {
+              "name": "04. Ziemlich langsam.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/04. Ziemlich langsam.mp3"
+            },
+            {
+              "name": "05. Schnell.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/05. Schnell.mp3"
+            },
+            {
+              "name": "06. Ziemlich langsam, sehr gesangvoll.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/06. Ziemlich langsam, sehr gesangvoll.mp3"
+            },
+            {
+              "name": "07. Sehr langsam.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/07. Sehr langsam.mp3"
+            },
+            {
+              "name": "08. Langsam.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/08. Langsam.mp3"
+            },
+            {
+              "name": "09. Novelette. Lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/09. Novelette. Lebhaft.mp3"
+            },
+            {
+              "name": "10. Präludium. Energisch.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/10. Präludium. Energisch.mp3"
+            },
+            {
+              "name": "11. Marsch. Sehr getragen.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/11. Marsch. Sehr getragen.mp3"
+            },
+            {
+              "name": "12. Abendmusik. Im Menuetttempo.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/12. Abendmusik. Im Menuetttempo.mp3"
+            },
+            {
+              "name": "13. Scherzo. Lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/13. Scherzo. Lebhaft.mp3"
+            },
+            {
+              "name": "14. Geschwindmarsch. Sehr markiert.mp3",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/14. Geschwindmarsch. Sehr markiert.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Robert Schumann/Bunte Blätter/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Liederkreis op39",
+          "content": [
+            {
+              "name": "01. In der Fremde.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/01. In der Fremde.mp3"
+            },
+            {
+              "name": "02. Intermezzo.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/02. Intermezzo.mp3"
+            },
+            {
+              "name": "03. Waldesgespräch.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/03. Waldesgespräch.mp3"
+            },
+            {
+              "name": "04. Die Stille.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/04. Die Stille.mp3"
+            },
+            {
+              "name": "05. Mondnacht.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/05. Mondnacht.mp3"
+            },
+            {
+              "name": "06. Schöne Fremde.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/06. Schöne Fremde.mp3"
+            },
+            {
+              "name": "07. Auf einer Burg.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/07. Auf einer Burg.mp3"
+            },
+            {
+              "name": "08. In der Fremde.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/08. In der Fremde.mp3"
+            },
+            {
+              "name": "09. Wehmut.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/09. Wehmut.mp3"
+            },
+            {
+              "name": "10. Zwielicht.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/10. Zwielicht.mp3"
+            },
+            {
+              "name": "11. Im Walde.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/11. Im Walde.mp3"
+            },
+            {
+              "name": "12. Frühlingsnacht.mp3",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/12. Frühlingsnacht.mp3"
+            },
+            {
+              "name": "cover.jpg",
+              "fullPath": "Music/Robert Schumann/Liederkreis op39/cover.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Davidsbündlertänze",
+          "content": [
+            {
+              "name": "01. Lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/01. Lebhaft.mp3"
+            },
+            {
+              "name": "02. Innig.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/02. Innig.mp3"
+            },
+            {
+              "name": "03. Etwas hahnbüchen.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/03. Etwas hahnbüchen.mp3"
+            },
+            {
+              "name": "04. Ungeduldig.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/04. Ungeduldig.mp3"
+            },
+            {
+              "name": "05. Einfach.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/05. Einfach.mp3"
+            },
+            {
+              "name": "06. Sehr rasch und in sich hinein.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/06. Sehr rasch und in sich hinein.mp3"
+            },
+            {
+              "name": "07. Nicht schnell. Mit äußerst starker Empfindung.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/07. Nicht schnell. Mit äußerst starker Empfindung.mp3"
+            },
+            {
+              "name": "08. Frisch.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/08. Frisch.mp3"
+            },
+            {
+              "name": "09. Lebhaft.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/09. Lebhaft.mp3"
+            },
+            {
+              "name": "10. Balladenmäßig. Sehr rasch.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/10. Balladenmäßig. Sehr rasch.mp3"
+            },
+            {
+              "name": "11. Einfach.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/11. Einfach.mp3"
+            },
+            {
+              "name": "12. Mit Humor.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/12. Mit Humor.mp3"
+            },
+            {
+              "name": "13. Wild und lustig.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/13. Wild und lustig.mp3"
+            },
+            {
+              "name": "14. Zart und singend.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/14. Zart und singend.mp3"
+            },
+            {
+              "name": "15. Frisch.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/15. Frisch.mp3"
+            },
+            {
+              "name": "16. Mit gutem Humor.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/16. Mit gutem Humor.mp3"
+            },
+            {
+              "name": "17. Wie aus der Ferne.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/17. Wie aus der Ferne.mp3"
+            },
+            {
+              "name": "18. Nicht schnell.mp3",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/18. Nicht schnell.mp3"
+            },
+            {
+              "name": "schumann-kriehuber.jpg",
+              "fullPath": "Music/Robert Schumann/Davidsbündlertänze/schumann-kriehuber.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Waldszenen",
+          "content": [
+            {
+              "name": "01. Eintritt.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/01. Eintritt.mp3"
+            },
+            {
+              "name": "02. Jäger auf der Lauer.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/02. Jäger auf der Lauer.mp3"
+            },
+            {
+              "name": "03. Einsame Blumen.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/03. Einsame Blumen.mp3"
+            },
+            {
+              "name": "04. Verrufene Stelle.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/04. Verrufene Stelle.mp3"
+            },
+            {
+              "name": "05. Freundliche Landschaft.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/05. Freundliche Landschaft.mp3"
+            },
+            {
+              "name": "06. Herberge.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/06. Herberge.mp3"
+            },
+            {
+              "name": "07. Vogel als Prophet.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/07. Vogel als Prophet.mp3"
+            },
+            {
+              "name": "08. Jagdlied.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/08. Jagdlied.mp3"
+            },
+            {
+              "name": "09. Abschied.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/09. Abschied.mp3"
+            },
+            {
+              "name": "10. Eintritt.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/10. Eintritt.mp3"
+            },
+            {
+              "name": "11. Jäger auf der Lauer.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/11. Jäger auf der Lauer.mp3"
+            },
+            {
+              "name": "12. Einsame Blumen.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/12. Einsame Blumen.mp3"
+            },
+            {
+              "name": "13. Verrufene Stelle.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/13. Verrufene Stelle.mp3"
+            },
+            {
+              "name": "14. Freundliche Landschaft.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/14. Freundliche Landschaft.mp3"
+            },
+            {
+              "name": "15. Herberge.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/15. Herberge.mp3"
+            },
+            {
+              "name": "16. Vogel als Prophet.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/16. Vogel als Prophet.mp3"
+            },
+            {
+              "name": "17. Jagdlied.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/17. Jagdlied.mp3"
+            },
+            {
+              "name": "18. Abschied.mp3",
+              "fullPath": "Music/Robert Schumann/Waldszenen/18. Abschied.mp3"
+            },
+            {
+              "name": "Schumann-wald.jpg",
+              "fullPath": "Music/Robert Schumann/Waldszenen/Schumann-wald.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
