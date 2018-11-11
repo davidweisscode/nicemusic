@@ -76,6 +76,8 @@ export class ArchiveService {
        "currentArchive",
        content,
        );
+     console.log("Dir Test");
+     console.log("dataDirectory is at ", this.file.dataDirectory)
    }
 
  }

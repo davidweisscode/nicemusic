@@ -49,11 +49,11 @@ export class ArchivePage {
   }
 
   getTags() {
-    console.log("getTags()");
-
+    console.log("GET TAGS");
+    debugger;
     this.file.resolveDirectoryUrl(this.file.externalRootDirectory).then((myDir) => {
 
-      this.file.getFile(myDir, "Music/America/04 - Ventura Highway.m4a", {create: false}).then((fileEntry) => {
+      this.file.getFile(myDir, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
         jsMediaTags.read(fileEntry.toInternalURL(), {
           onSuccess: function(tag) {
             console.log(tag);
