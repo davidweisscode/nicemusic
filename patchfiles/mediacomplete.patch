@@ -1,0 +1,51 @@
+diff --git a/src/android/AudioPlayer.java b/src/android/AudioPlayer.java
+index 861421e..a32fe3e 100644
+--- a/src/android/AudioPlayer.java
++++ b/src/android/AudioPlayer.java
+@@ -59,7 +59,8 @@ public class AudioPlayer implements OnCompletionListener, OnPreparedListener, On
+                         MEDIA_RUNNING,
+                         MEDIA_PAUSED,
+                         MEDIA_STOPPED,
+-                        MEDIA_LOADING
++                        MEDIA_LOADING,
++			MEDIA_COMPLETED
+                       };
+ 
+     private static final String LOG_TAG = "AudioPlayer";
+@@ -369,8 +370,8 @@ public class AudioPlayer implements OnCompletionListener, OnPreparedListener, On
+      * @param player           The MediaPlayer that reached the end of the file
+      */
+     public void onCompletion(MediaPlayer player) {
+-        LOG.d(LOG_TAG, "on completion is calling stopped");
+-        this.setState(STATE.MEDIA_STOPPED);
++        LOG.d(LOG_TAG, "on completion is calling stopped NICE123");
++        this.setState(STATE.MEDIA_COMPLETED);
+     }
+ 
+     /**
+diff --git a/www/Media.js b/www/Media.js
+index 5806b9f..32e2c48 100644
+--- a/www/Media.js
++++ b/www/Media.js
+@@ -62,7 +62,8 @@ Media.MEDIA_STARTING = 1;
+ Media.MEDIA_RUNNING = 2;
+ Media.MEDIA_PAUSED = 3;
+ Media.MEDIA_STOPPED = 4;
+-Media.MEDIA_MSG = ["None", "Starting", "Running", "Paused", "Stopped"];
++Media.MEDIA_COMPLETED = 6;
++Media.MEDIA_MSG = ["None", "Starting", "Running", "Paused", "Stopped", "Loading", "Completed"];
+ 
+ // "static" function to return existing objs.
+ Media.get = function(id) {
+@@ -204,9 +205,9 @@ Media.onStatus = function(id, msgType, value) {
+                 if (media.statusCallback) {
+                     media.statusCallback(value);
+                 }
+-                if (value == Media.MEDIA_STOPPED) {
++                if (value === Media.MEDIA_STOPPED || value === Media.MEDIA_COMPLETED) {
+                     if (media.successCallback) {
+-                        media.successCallback();
++                        media.successCallback(value);
+                     }
+                 }
+                 break;
