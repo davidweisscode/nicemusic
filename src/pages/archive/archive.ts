@@ -14,12 +14,12 @@ export class ArchivePage {
     private file: File,
     private navParams: NavParams,
     private audioService: AudioService,
-    ) {
-    let pagePath = navParams.get("fullPath");
+  ) {
+    let pagePath = navParams.get("name");
     let pageContent = navParams.get("content"); // Array
 
     if (pagePath) { // Consecutive partial JSON lookup
-      this.archiveTitle = pagePath.substring(5); // Remove "Music"
+      this.archiveTitle = pagePath; //.substring(5); // Remove "Music"
       this.currentArchiveArr = pageContent;
     } else { // First JSON lookup
       this.archiveTitle = "/";
@@ -38,9 +38,9 @@ export class ArchivePage {
 
   itemSelected(item) {
     console.log("Select item:", item);
-    if(item.content) { // Subsequent page is directory page
+    if(item.content) { // Selected item is a folder
       this.navCtrl.push(ArchivePage, item);
-    } else { // Subsequent page is file page
+    } else { // Selected item is an audio file
       //TODO: update playerPage
       console.log("Select item before setAudio:", item);
       console.log("Select currentArchiveArr before setAudio:", this.currentArchiveArr);

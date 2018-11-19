@@ -67,6 +67,7 @@ export class AudioService {
         console.log("Next file is no audio");
       }
     } else {
+      // TODO: Repeat album from beginning
       console.log("No next file");
     }
   }
