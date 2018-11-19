@@ -50,7 +50,7 @@ export class ArchivePage {
 
   getTags() {
     console.log("GET TAGS");
-    debugger;
+    /*debugger;
     this.file.resolveDirectoryUrl(this.file.externalRootDirectory).then((myDir) => {
 
       this.file.getFile(myDir, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
@@ -64,6 +64,15 @@ export class ArchivePage {
         })
       });
 
+    });*/
+
+    jsMediaTags.read("http:///sdcard/Music/album01/song01.mp3", {
+      onSuccess: function(tag) {
+        console.log(tag);
+      },
+      onError: function(error) {
+        console.log(error);
+      }
     });
 
   }
