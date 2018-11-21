@@ -50,11 +50,21 @@ export class ArchivePage {
 
   getTags() {
     console.log("GET TAGS");
-    /*debugger;
-    this.file.resolveDirectoryUrl(this.file.externalRootDirectory).then((myDir) => {
+    // this.file.externalRootDirectory + item.fullPath
+    // http:///sdcard/Music/Negroman/Sequel EP/01. Nejromunn.mp3
+    // file:///storage/emulated/0/Music/Negroman/Sequel%20EP/01.%20Nejromunn.mp3 // fileEntry
+    // cdvfile://localhost/sdcard/Music/Negroman/Sequel%20EP/01.%20Nejromunn.mp3 //toInternalURL
+    //debugger;
+    console.log("EXTROOTDIR", this.file.externalRootDirectory);
+    this.file.resolveDirectoryUrl(this.file.externalRootDirectory).then((dirEntry) => {
 
-      this.file.getFile(myDir, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
-        jsMediaTags.read(fileEntry.toInternalURL(), {
+      console.log("DIRENTRY", dirEntry);
+
+      this.file.getFile(dirEntry, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
+        console.log("FILEENTRY", fileEntry);
+        console.log("FILEENTRYINTERNALURL", fileEntry.toInternalURL());
+        console.log("CONVERTED", window.Ionic.WebView.convertFileSrc(fileEntry.nativeURL));
+        jsMediaTags.read(fileEntry.nativeURL, {
           onSuccess: function(tag) {
             console.log(tag);
           },
@@ -64,15 +74,6 @@ export class ArchivePage {
         })
       });
 
-    });*/
-
-    jsMediaTags.read("http:///sdcard/Music/album01/song01.mp3", {
-      onSuccess: function(tag) {
-        console.log(tag);
-      },
-      onError: function(error) {
-        console.log(error);
-      }
     });
 
   }

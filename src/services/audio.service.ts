@@ -15,7 +15,7 @@ export class AudioService {
     }
     this.audio = this.media.create(
       this.file.externalRootDirectory + item.fullPath
-      );
+    );
   }
 
   playAudio() {
