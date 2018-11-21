@@ -12,6 +12,8 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { File } from '@ionic-native/file';
 import { Media } from '@ionic-native/media';
+import { WebView } from '@ionic-native/ionic-webview/ngx';
+
 import { AudioService } from "../services/audio.service";
 import { ArchiveService } from "../services/archive.service";
 
@@ -42,6 +44,7 @@ import { ArchiveService } from "../services/archive.service";
   ArchiveService,
   File,
   Media,
+  WebView,
   {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })

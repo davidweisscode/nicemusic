@@ -4,6 +4,7 @@ import { NavParams } from "ionic-angular";
 import { File } from "@ionic-native/file";
 import { AudioService } from "../../services/audio.service";
 import jsMediaTags from "jsmediatags";
+import { WebView } from '@ionic-native/ionic-webview/ngx';
 
 @Component({
   selector: "page-archive",
@@ -15,6 +16,7 @@ export class ArchivePage {
     private file: File,
     private navParams: NavParams,
     private audioService: AudioService,
+    private webView: WebView,
     ) {
     let pagePath = navParams.get("fullPath");
     let pageContent = navParams.get("content"); // Array
@@ -63,7 +65,9 @@ export class ArchivePage {
       this.file.getFile(dirEntry, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
         console.log("FILEENTRY", fileEntry);
         console.log("FILEENTRYINTERNALURL", fileEntry.toInternalURL());
-        console.log("CONVERTED", window.Ionic.WebView.convertFileSrc(fileEntry.nativeURL));
+        console.log("FILEENTRYNATIVEURL", fileEntry.nativeURL);
+        //console.log("CONVERTED", this.webView.convertFileSrc(fileEntry.nativeURL));
+
         jsMediaTags.read(fileEntry.nativeURL, {
           onSuccess: function(tag) {
             console.log(tag);
