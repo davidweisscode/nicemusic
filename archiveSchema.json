@@ -1,0 +1,36 @@
+// adb shell
+// su
+// root@cancro:/data/data/io.ionic.starter/files
+
+{
+  "root": [
+    {
+      "name": "MyArtist",
+      "content": [
+        {
+          "name": "MyArtistPic.jpg",
+          "fullPath": "Music/MyArtist/MyArtistPic.jpg"
+        },
+        {
+          "name": "MyAlbum",
+          "content": [
+            {
+              "name": "MySong-01.mp3",
+              "fullPath": "Music/MyArtist/MyAlbum/MySong-01.mp3",
+              "title": "MySong-01",
+              "artist": "MyArtist",
+            },
+            {
+              "name": "MySong-02.mp3",
+              "fullPath": "Music/MyArtist/MyAlbum/MySong-02.mp3",
+              "title": "MySong-01",
+              "artist": "MyArtist",
+            },
+            {
+              "name": "MyAlbumPic.jpg",
+              "fullPath": "Music/MyArtist/MyAlbumPic.jpg"
+            }
+          ]
+        }
+      ]
+    }
