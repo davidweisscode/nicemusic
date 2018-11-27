@@ -58,6 +58,11 @@ export class ArchivePage {
 
       this.file.getFile(dirEntry, "Music/Negroman/Sequel EP/01. Nejromunn.mp3", {create: false}).then((fileEntry) => {
 
+        console.log("CONVERT_EXAMPLE", this.webView.convertFileSrc('file:///Users/dan/camera-image-12345.png'));
+        console.log("CONVERT_NATIVE", this.webView.convertFileSrc('file:///storage/emulated/0/Music/Negroman/Sequel%20EP/01.%20Nejromunn.mp3'));
+        console.log("CONVERT_INTERNAL", this.webView.convertFileSrc('cdvfile://localhost/sdcard/Music/Negroman/Sequel%20EP/01.%20Nejromunn.mp3'));
+
+
         jsMediaTags.read("http://localhost:8080/_file_/" + "storage/emulated/0/Music/Negroman/Sequel%20EP/01.%20Nejromunn.mp3", {
           onSuccess: function(tag) {
             console.log(tag);
