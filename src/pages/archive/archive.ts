@@ -3,8 +3,8 @@ import { NavController } from "ionic-angular";
 import { NavParams } from "ionic-angular";
 import { File } from "@ionic-native/file";
 import { AudioService } from "../../services/audio.service";
-import jsMediaTags from "jsmediatags";
-import { WebView } from '@ionic-native/ionic-webview/ngx';
+// import jsMediaTags from "jsmediatags";
+// import { WebView } from '@ionic-native/ionic-webview/ngx';
 
 @Component({
   selector: "page-archive",
@@ -16,7 +16,7 @@ export class ArchivePage {
     private file: File,
     private navParams: NavParams,
     private audioService: AudioService,
-    private webView: WebView,
+    // private webView: WebView,
     ) {
     let pagePath = navParams.get("fullPath");
     let pageContent = navParams.get("content"); // Array
@@ -48,24 +48,6 @@ export class ArchivePage {
       this.audioService.setAudio(item);
       this.audioService.playAudio();
     }
-  }
-
-  getTags() {
-    this.file.resolveDirectoryUrl(this.file.externalRootDirectory).then((dirEntry) => {
-      // extRootDir / dirEntry.nativeURL: file:///storage/emulated/0/
-      this.file.resolveLocalFilesystemUrl("file:///storage/emulated/0/Music/Dramadigs/04.%20Scherben.mp3").then((fileEntry) => {
-        // nativeURL: file:///storage/emulated/0/Music/Dramadigs/04.%20Scherben.mp3
-        jsMediaTags.read(fileEntry.toInternalURL(), {
-          // fileEntry.toInternalURL(): cdvfile://localhost/sdcard/Music/Dramadigs/04.%20Scherben.mp3 
-          onSuccess: function(tag) {
-            console.log("TAG", tag);
-          },
-          onError: function(error) {
-            console.log("ERROR", error);
-          }
-        });
-      });
-    });
   }
 
 }
